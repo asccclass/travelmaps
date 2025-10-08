@@ -270,6 +270,26 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "id": 13,
+      "name": "席維斯史特龍照相看板",
+      "lat": 49.377122,
+      "lng": -121.442364,
+      "description": "可以在這邊套頭照相",
+      "day": 2,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/1fb0f9f8-710e-4675-9a83-dad5a6c79564_38beff85-a12c-4479-bcb1-2f496a440d8b",
+          "full": "",
+          "caption": "可以把頭伸進去拍照"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/f0a42ec5-3f73-4003-acaa-b765a0cd8653_3dda3a70-3054-492a-84d0-a02ea0d3a3ad",
+          "full": "",
+          "caption": "可以把頭伸進去拍照"
+        }
+      ]
     }
   ],
   "routes": [
@@ -297,7 +317,8 @@
         {"lat": 49.058293, "lng": -122.470379, "routez": 1},
         {"lat": 49.184058, "lng": -121.742791, "routez": 1},
         {"lat": 49.181814, "lng": -121.740046, "routez": 0},
-        {"lat": 49.37766, "lng": -121.442162, "routez": 1}
+        {"lat": 49.37766, "lng": -121.442162, "routez": 1},
+        {"lat": 49.377122, "lng": -121.442364, "routez": 1}
       ]
     }
   ]
