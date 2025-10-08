@@ -274,7 +274,7 @@
   ],
   "routes": [
     {
-      "name": "19-搭機前往溫哥華",
+      "name": "第一日：搭機前往溫哥華",
       "color": "#3388ff",
       "day": 1,
       "points": [
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "name": "19 ～ 20-HOPE 小鎮",
+      "name": "第二日：HOPE 小鎮",
       "color": "#ff8c00",
       "day": 2,
       "points": [
