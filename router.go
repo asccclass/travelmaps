@@ -1,7 +1,6 @@
 package main
 
 import (
-   "fmt"
    "net/http"
    "github.com/asccclass/sherryserver"
 )
@@ -14,7 +13,7 @@ func NewRouter(srv *SherryServer.Server, documentRoot string)(*http.ServeMux) {
    staticfileserver.AddRouter(router)
 
    // API 路由
-   router.HandleFunc("/", indexHandler)
+   // router.HandleFunc("/", indexHandler)
    router.HandleFunc("/api/locations", locationsHandler)
    router.HandleFunc("/api/routes", routesHandler)
    router.HandleFunc("/api/location-photos", locationPhotosHandler)

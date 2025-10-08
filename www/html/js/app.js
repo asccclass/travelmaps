@@ -1,3 +1,4 @@
+const base = '/travel';
 // 初始化地圖
 // const map = L.map('map').setView([25.0340, 121.5300], 12);
 // 初始化地圖
@@ -62,7 +63,7 @@ function switchMapType(type) {
 }
 
 // 載入天數資訊
-fetch('/api/days')
+fetch(base + '/api/days')
     .then(response => response.json())
     .then(data => {
         totalDays = data.totalDays;
@@ -86,7 +87,7 @@ fetch('/api/days')
     });
 
 // 載入路線
-fetch('/api/routes')
+fetch(base + '/api/routes')
     .then(response => response.json())
     .then(routes => {
         allRoutes = routes;
@@ -95,7 +96,7 @@ fetch('/api/routes')
     });
 
 // 載入地點
-fetch('/api/locations')
+fetch(base + '/api/locations')
     .then(response => response.json())
     .then(locations => {
         allLocations = locations;
@@ -104,7 +105,9 @@ fetch('/api/locations')
 
 // 取得上一個需要的路徑
 function getLastNeededRoute(points, i) {   
-   for(j = i - 1; j >= 0 && points[j].routez != 0; j--);
+   var j = i - 1;
+   if(points[i].routez == 0)  return {lat: points[j].lat, lng: points[j].lng};
+   for(; j >= 0 && points[j].routez == 0; j--);
    if(j < 0)  return {lat: points[i-1].lat, lng: points[i-1].lng};
    else {
       return {lat: points[j].lat, lng: points[j].lng};
@@ -126,7 +129,6 @@ async function renderRoutes() {
     // 為每條路線獲取實際路徑
     for(const route of routesToShow) {  // routes
         // 每天的路線
-        console.log(route);
         for(var i = 1; i < route.points.length; i++) {  // 跳過第一個點，因為沒有前一個點可以連接
             const end = {lat: route.points[i].lat, lng: route.points[i].lng};
             const start = getLastNeededRoute(route.points, i);
@@ -320,7 +322,7 @@ function loadLocationPhotos(locationId) {
     
     currentLocationId = locationId;
     
-    fetch('/api/location-photos?id=' + locationId)
+    fetch(base + '/api/location-photos?id=' + locationId)
         .then(response => response.text())
         .then(html => {
             photoDetail.innerHTML = html;

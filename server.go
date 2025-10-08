@@ -7,7 +7,7 @@ import (
    "net/http"
    "io/ioutil"
    "encoding/json"
-   "html/template"
+   // "html/template"
    "github.com/joho/godotenv"
    "github.com/asccclass/sherryserver"
 )
@@ -56,20 +56,20 @@ var travelData TravelData
 
 func init() {
    // 從 JSON 檔案讀取資料
-   data, err := ioutil.ReadFile("travel_data.json")
+   data, err := ioutil.ReadFile("data/travel_data.json")
    if err != nil {
-      log.Println("找不到 travel_data.json，使用預設資料")
+      fmt.Println("找不到 travel_data.json，使用預設資料")
       createDefaultData()
       return
    }
 
    err = json.Unmarshal(data, &travelData)
    if err != nil {
-      log.Println("JSON 解析失敗，使用預設資料:", err)
+      fmt.Println("JSON 解析失敗，使用預設資料:", err)
       createDefaultData()
       return
    }
-   log.Println("成功從 travel_data.json 載入資料")
+   fmt.Println("成功從 travel_data.json 載入資料")
 }
 
 func createDefaultData() {
@@ -195,15 +195,15 @@ func createDefaultData() {
 func saveDefaultData() {
    data, err := json.MarshalIndent(travelData, "", "  ")
    if err != nil {
-      log.Println("無法序列化資料:", err)
+      fmt.Println("無法序列化資料:", err)
       return
    }
    err = ioutil.WriteFile("travel_data.json", data, 0644)
    if err != nil {
-      log.Println("無法寫入 travel_data.json:", err)
+      fmt.Println("無法寫入 travel_data.json:", err)
       return
    }
-   log.Println("已建立預設的 travel_data.json 檔案")
+   fmt.Println("已建立預設的 travel_data.json 檔案")
 }
 
 func main() {
@@ -235,68 +235,6 @@ func main() {
    }
    server.Server.Handler = router  // server.CheckCROS(router)  // 需要自行implement, overwrite 預設的
    server.Start()
-
-   // 靜態檔案服務
-   http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("static"))))
-
-   // API 路由
-   http.HandleFunc("/", indexHandler)
-   http.HandleFunc("/api/locations", locationsHandler)
-   http.HandleFunc("/api/routes", routesHandler)
-   http.HandleFunc("/api/location-photos", locationPhotosHandler)
-   http.HandleFunc("/api/days", daysHandler)
-
-   log.Println("伺服器啟動於 http://localhost:8080")
-   log.Fatal(http.ListenAndServe(":8080", nil))
-}
-
-func indexHandler(w http.ResponseWriter, r *http.Request) {
-   tmpl := `<!DOCTYPE html>
-<html lang="zh-TW">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>旅行地圖</title>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <link rel="stylesheet" href="/static/css/style.css" />
-</head>
-<body>
-    <div id="map"></div>
-    <div id="photo-detail"></div>
-    <div id="route-info" class="route-info">正在規劃路徑...</div>
-    
-    <div class="controls">
-        <div class="control-group">
-            <div class="control-label">地圖類型</div>
-            <div class="map-type-buttons">
-                <button class="map-type-btn active" onclick="switchMapType('street')">街道地圖</button>
-                <button class="map-type-btn" onclick="switchMapType('satellite')">衛星地圖</button>
-            </div>
-        </div>
-        <div class="control-group">
-            <div class="control-label">選擇日期</div>
-            <div class="day-buttons" id="day-buttons"></div>
-        </div>
-    </div>
-    
-    <div class="legend">
-        <div class="legend-title">圖例</div>
-        <div id="legend-routes"></div>
-        <div class="legend-item">
-            <div style="width: 20px; height: 20px; background: #ff4444; border-radius: 50%; margin-right: 8px;"></div>
-            <span>景點位置</span>
-        </div>
-    </div>
-
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script src="https://unpkg.com/htmx.org@1.9.10"></script>
-    <script src="/static/js/app.js"></script>
-</body>
-</html>`
-
-   w.Header().Set("Content-Type", "text/html; charset=utf-8")
-   t, _ := template.New("index").Parse(tmpl)
-   t.Execute(w, nil)
 }
 
 func locationsHandler(w http.ResponseWriter, r *http.Request) {

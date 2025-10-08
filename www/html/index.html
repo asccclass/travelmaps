@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>旅行地圖</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="/travel/css/style.css" />
+</head>
+<body>
+    <div id="map"></div>
+    <div id="photo-detail"></div>
+    <div id="route-info" class="route-info">正在規劃路徑...</div>
+    
+    <div class="controls">
+        <div class="control-group">
+            <div class="control-label">地圖類型</div>
+            <div class="map-type-buttons">
+                <button class="map-type-btn active" onclick="switchMapType('street')">街道地圖</button>
+                <button class="map-type-btn" onclick="switchMapType('satellite')">衛星地圖</button>
+            </div>
+        </div>
+        <div class="control-group">
+            <div class="control-label">選擇日期</div>
+            <div class="day-buttons" id="day-buttons"></div>
+        </div>
+    </div>
+    
+    <div class="legend">
+        <div class="legend-title">圖例</div>
+        <div id="legend-routes"></div>
+        <div class="legend-item">
+            <div style="width: 20px; height: 20px; background: #ff4444; border-radius: 50%; margin-right: 8px;"></div>
+            <span>景點位置</span>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/htmx.org@1.9.10"></script>
+    <script src="/travel/js/app.js?v=010"></script>
+</body>
+</html>
