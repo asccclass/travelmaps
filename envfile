@@ -1,0 +1,22 @@
+SystemName=Travel Server
+PORT=80
+ContainerName=travelmap
+OriginAllowList=https://www.justdrink.com.tw;http://www.justdrink.com.tw
+AllowMethods=POST;GET;PUT;DELETE
+ResponseType=code
+ServerURL=https://www.justdrink.com.tw/travel
+
+DBMSType=mysql
+DBSERVER=MySQLx
+DBNAME=records
+DBLOGIN=root
+DBPASSWORD=webteam@2019
+
+DocumentRoot=/app/www/html
+TemplateRoot=/app/www/template/
+DataRoot=/app/data/
+
+MEDIA_PATH=/media_data
+DEMO_MODE=false
+FORCE_SSL=false
+
