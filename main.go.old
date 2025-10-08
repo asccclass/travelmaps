@@ -1,0 +1,301 @@
+package main
+
+import (
+	"encoding/json"
+	"html/template"
+	"log"
+	"net/http"
+)
+
+type Location struct {
+	ID          int       `json:"id"`
+	Lat         float64   `json:"lat"`
+	Lng         float64   `json:"lng"`
+	Name        string    `json:"name"`
+	Description string    `json:"description"`
+	Thumbnail   string    `json:"thumbnail"`
+	Photos      []Photo   `json:"photos"`
+}
+
+type Photo struct {
+	URL         string `json:"url"`
+	Description string `json:"description"`
+}
+
+// 範例旅行資料
+var travelData = []Location{
+	{
+		ID:          1,
+		Lat:         25.0330,
+		Lng:         121.5654,
+		Name:        "台北101",
+		Description: "台北地標建築",
+		Thumbnail:   "https://images.unsplash.com/photo-1508964942454-1a56651d54ac?w=100&h=100&fit=crop",
+		Photos: []Photo{
+			{URL: "https://images.unsplash.com/photo-1508964942454-1a56651d54ac?w=400&h=300&fit=crop", Description: "台北101外觀"},
+			{URL: "https://images.unsplash.com/photo-1590614423626-3a64d6f09665?w=400&h=300&fit=crop", Description: "夜景燈光秀"},
+		},
+	},
+	{
+		ID:          2,
+		Lat:         25.0919,
+		Lng:         121.5598,
+		Name:        "士林夜市",
+		Description: "著名夜市美食",
+		Thumbnail:   "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=100&h=100&fit=crop",
+		Photos: []Photo{
+			{URL: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=300&fit=crop", Description: "夜市小吃攤位"},
+			{URL: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&h=300&fit=crop", Description: "美味小吃"},
+		},
+	},
+	{
+		ID:          3,
+		Lat:         25.0375,
+		Lng:         121.5625,
+		Name:        "中正紀念堂",
+		Description: "歷史文化景點",
+		Thumbnail:   "https://images.unsplash.com/photo-1590330297626-d7aff25a0431?w=100&h=100&fit=crop",
+		Photos: []Photo{
+			{URL: "https://images.unsplash.com/photo-1590330297626-d7aff25a0431?w=400&h=300&fit=crop", Description: "紀念堂廣場"},
+			{URL: "https://images.unsplash.com/photo-1543716627-839b54c40519?w=400&h=300&fit=crop", Description: "建築細節"},
+		},
+	},
+}
+
+func main() {
+	// 提供靜態頁面
+	http.HandleFunc("/", indexHandler)
+	
+	// API 端點
+	http.HandleFunc("/api/locations", locationsHandler)
+	http.HandleFunc("/api/location-details", locationDetailsHandler)
+
+	log.Println("伺服器啟動於 http://localhost:8080")
+	log.Fatal(http.ListenAndServe(":8080", nil))
+}
+
+func indexHandler(w http.ResponseWriter, r *http.Request) {
+	tmpl := `<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>旅行地圖</title>
+    <script src="https://unpkg.com/htmx.org@1.9.10"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Microsoft JhengHei', Arial, sans-serif; }
+        #map { height: 100vh; width: 100%; }
+        .photo-marker {
+            cursor: pointer;
+            border: 3px solid white;
+            border-radius: 50%;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+            transition: transform 0.2s;
+        }
+        .photo-marker:hover {
+            transform: scale(1.1);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+        }
+        .details-panel {
+            position: fixed;
+            top: 50%;
+            right: 20px;
+            transform: translateY(-50%);
+            width: 400px;
+            max-height: 80vh;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+            overflow-y: auto;
+            padding: 20px;
+            display: none;
+            z-index: 1000;
+        }
+        .details-panel.show { display: block; }
+        .close-btn {
+            float: right;
+            font-size: 24px;
+            cursor: pointer;
+            color: #666;
+            background: none;
+            border: none;
+        }
+        .close-btn:hover { color: #000; }
+        .photo-gallery {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 15px;
+            margin-top: 20px;
+        }
+        .photo-item img {
+            width: 100%;
+            border-radius: 8px;
+            margin-bottom: 8px;
+        }
+        .photo-item p {
+            color: #666;
+            font-size: 14px;
+        }
+        h2 { margin-bottom: 10px; color: #333; }
+        .description { color: #666; margin-bottom: 20px; padding-bottom: 20px; border-bottom: 2px solid #eee; }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div id="details-panel" class="details-panel"></div>
+
+    <script>
+        let map, directionsService, directionsRenderer, markers = [];
+
+        function initMap() {
+            const center = { lat: 25.0478, lng: 121.5638 };
+            
+            map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 13,
+                center: center,
+                mapTypeControl: true,
+                mapTypeControlOptions: {
+                    style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
+                    position: google.maps.ControlPosition.TOP_CENTER
+                }
+            });
+
+            directionsService = new google.maps.DirectionsService();
+            directionsRenderer = new google.maps.DirectionsRenderer({
+                map: map,
+                suppressMarkers: true,
+                polylineOptions: {
+                    strokeColor: '#4285F4',
+                    strokeWeight: 4
+                }
+            });
+
+            loadLocations();
+        }
+
+        function loadLocations() {
+            fetch('/api/locations')
+                .then(res => res.json())
+                .then(locations => {
+                    locations.forEach((loc, idx) => {
+                        createPhotoMarker(loc, idx);
+                    });
+                    
+                    if (locations.length > 1) {
+                        drawRoute(locations);
+                    }
+                });
+        }
+
+        function createPhotoMarker(location, index) {
+            const marker = new google.maps.Marker({
+                position: { lat: location.lat, lng: location.lng },
+                map: map,
+                icon: {
+                    url: location.thumbnail,
+                    scaledSize: new google.maps.Size(60, 60),
+                    anchor: new google.maps.Point(30, 30)
+                },
+                label: {
+                    text: String(index + 1),
+                    color: 'white',
+                    fontSize: '12px',
+                    fontWeight: 'bold'
+                },
+                title: location.name
+            });
+
+            marker.addListener('mouseover', function() {
+                loadLocationDetails(location.id);
+            });
+
+            marker.addListener('click', function() {
+                loadLocationDetails(location.id);
+            });
+
+            markers.push(marker);
+        }
+
+        function loadLocationDetails(id) {
+            htmx.ajax('GET', '/api/location-details?id=' + id, {
+                target: '#details-panel',
+                swap: 'innerHTML'
+            }).then(() => {
+                document.getElementById('details-panel').classList.add('show');
+            });
+        }
+
+        function closeDetails() {
+            document.getElementById('details-panel').classList.remove('show');
+        }
+
+        function drawRoute(locations) {
+            const waypoints = locations.slice(1, -1).map(loc => ({
+                location: { lat: loc.lat, lng: loc.lng },
+                stopover: true
+            }));
+
+            const request = {
+                origin: { lat: locations[0].lat, lng: locations[0].lng },
+                destination: { lat: locations[locations.length - 1].lat, lng: locations[locations.length - 1].lng },
+                waypoints: waypoints,
+                travelMode: google.maps.TravelMode.WALKING
+            };
+
+            directionsService.route(request, (result, status) => {
+                if (status === 'OK') {
+                    directionsRenderer.setDirections(result);
+                }
+            });
+        }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap" async defer></script>
+</body>
+</html>`
+
+	w.Header().Set("Content-Type", "text/html; charset=utf-8")
+	t := template.Must(template.New("index").Parse(tmpl))
+	t.Execute(w, nil)
+}
+
+func locationsHandler(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Content-Type", "application/json")
+	json.NewEncoder(w).Encode(travelData)
+}
+
+func locationDetailsHandler(w http.ResponseWriter, r *http.Request) {
+	id := r.URL.Query().Get("id")
+	
+	var location *Location
+	for _, loc := range travelData {
+		if string(rune(loc.ID+'0')) == id {
+			location = &loc
+			break
+		}
+	}
+
+	if location == nil {
+		http.Error(w, "Location not found", http.StatusNotFound)
+		return
+	}
+
+	html := `
+		<button class="close-btn" onclick="closeDetails()">×</button>
+		<h2>` + location.Name + `</h2>
+		<p class="description">` + location.Description + `</p>
+		<div class="photo-gallery">`
+	
+	for _, photo := range location.Photos {
+		html += `
+			<div class="photo-item">
+				<img src="` + photo.URL + `" alt="` + photo.Description + `">
+				<p>` + photo.Description + `</p>
+			</div>`
+	}
+	
+	html += `</div>`
+
+	w.Header().Set("Content-Type", "text/html; charset=utf-8")
+	w.Write([]byte(html))
+}
