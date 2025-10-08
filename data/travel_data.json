@@ -1,0 +1,304 @@
+{
+  "totalDays": 11,
+  "locations": [
+    {
+      "id": 1,
+      "name": "桃園國際機場",
+      "lat": 25.076205,
+      "lng": 121.229883,
+      "description": "準備出發加拿大之旅－抵達桃園機場＆Check in 啦！",
+      "day": 1,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/989e85ae-044d-4cae-b5aa-f05898df2807_2b25adf6-498b-41fa-b9fc-090b976803bf",
+          "full": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/989e85ae-044d-4cae-b5aa-f05898df2807_2b25adf6-498b-41fa-b9fc-090b976803bf",
+          "caption": "桃園機場入境大廳"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/71b7c931-77ed-497d-af72-de6b99b8b2f4_e524c918-6508-4ded-b450-e7a0670e85b0",
+          "full": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/71b7c931-77ed-497d-af72-de6b99b8b2f4_e524c918-6508-4ded-b450-e7a0670e85b0",
+          "caption": "飛往溫哥華的機票及時間"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "太平洋上空",
+      "lat": 52.515258,
+      "lng": -168.695191,
+      "description": "太平洋上空觀看飛機的飛行路線圖",
+      "day": 1,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/83a1b54c-1220-441c-8d84-c21d58ee9fd2_50a141de-cf54-4e49-b2b2-77c0d051850f.jpg",
+          "full": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/83a1b54c-1220-441c-8d84-c21d58ee9fd2_50a141de-cf54-4e49-b2b2-77c0d051850f.jpg",
+          "caption": "飛行路徑圖"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "機上自拍照",
+      "lat": 53.22345,
+      "lng": -157.817445,
+      "description": "長榮航空飛機上的自拍照",
+      "day": 1,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/ea795dd3-cc1e-4b24-ba43-ba706ee8064e_7bb9b305-2549-486f-be5c-9aa31c047331.jpg",
+          "full": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/ea795dd3-cc1e-4b24-ba43-ba706ee8064e_7bb9b305-2549-486f-be5c-9aa31c047331.jpg",
+          "caption": "長榮航空的飛機上提供低速的WiFi 可以使用，這次位置預約在機尾，感覺飛行時的噪音小很多，還是兩個人的座位，超級棒。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "即將要抵達溫哥華",
+      "lat": 53.134868,
+      "lng": -145.134045,
+      "description": "吃完第二餐後，準備要降落溫哥華",
+      "day": 1,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/7f01ae77-298f-4bc1-99da-dfa1c200cd3b_e480669a-4fbe-4479-b7b6-2f2cfa056386.jpg",
+          "full": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/7f01ae77-298f-4bc1-99da-dfa1c200cd3b_e480669a-4fbe-4479-b7b6-2f2cfa056386.jpg",
+          "caption": "即將要抵達溫哥華"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "太平洋上空的雲層",
+      "lat": 50.638744,
+      "lng": -134.303917,
+      "description": "吃完第二餐後，準備要降落溫哥華",
+      "day": 1,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/8f5f8884-1f22-4b0f-9e42-acff5acc54a0_444dd1ca-6437-4f37-ad8d-d9bead7e5684.jpg",
+          "full": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/8f5f8884-1f22-4b0f-9e42-acff5acc54a0_444dd1ca-6437-4f37-ad8d-d9bead7e5684.jpg",
+          "caption": "白天從窗戶向外看的雲層"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "溫哥華（Vancouver Airport）國際機場",
+      "lat": 49.194068,
+      "lng": -123.180595,
+      "description": "經過漫長的飛行，終於抵達溫哥華國際機場",
+      "day": 1,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/d7d5fce4-14f9-447f-95da-77a95608f64f_b257a2a6-bc51-4e2b-a41b-242dccde0c5a",
+          "full": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/d7d5fce4-14f9-447f-95da-77a95608f64f_b257a2a6-bc51-4e2b-a41b-242dccde0c5a",
+          "caption": "先來個成員小合照"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "溫哥華（Vancouver Airport）國際機場取車",
+      "lat": 49.193597,
+      "lng": -123.179345,
+      "description": "搞了很久才取到車。這次租Thrifty公司的車，原本網路上訂的是Toyota Sierra，但現場沒有，後來公司給 JEEP，但太小，所以只好換了KIA的的7人房車。另外，增加額外的駕駛員也需要支付額外的駕駛費用。測試以klook比價租車，設定為英語、加幣，因而確定中文翻譯貼切。地點同為溫哥華機場，11月1日起11天，Thrifty 的 Toyota Sienna，淡季落價至 $1151。確實只含一位駕駛，但沒有增加駕駛的任何費用說明，只說押金範圍而無明確金額，也毫無臨櫃須支付其他費用的訊息。前往 Thrifty 官網以相同條件測試租車，找不到 Toyota Sienna 之類的大車，選 Dodge mini van。除了總價，也列出明細，但同樣未說增加駕駛的費用，亦未說臨櫃須付別的費用。而今線上交易說明不足，臨櫃增加駕駛而生的額外費用明細，宛若天書。Thrifty明知增加駕駛是常見需求，感覺就像藏起價目表，臨場打劫，逼人就範。",
+      "day": 1,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a3a9e3fa-40ab-42c3-b914-f1e0118ec088_ab2e73cb-dab3-42c1-b2cd-092027dae31d",
+          "full": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a3a9e3fa-40ab-42c3-b914-f1e0118ec088_ab2e73cb-dab3-42c1-b2cd-092027dae31d",
+          "caption": "Thrifty租車公司櫃檯"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/555ba9d8-ff82-4d77-9de1-91720424ed84_680e0ebd-a59d-4c99-b14b-1874af757a4d",
+          "full": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/ee68b8d8-5b33-480f-a891-357b95291b63_a5338ae6-955f-4483-b328-f43217ad582a",
+          "caption": "最後給我們的車輛 KIA 7人座"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/62f94689-3828-4cca-9be9-98bc96d6d07a_71d99650-8857-46d3-b093-96d839786998",
+          "full": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/62f94689-3828-4cca-9be9-98bc96d6d07a_71d99650-8857-46d3-b093-96d839786998",
+          "caption": "增加一個駕駛所要增加的費用（460 CAD）及明細"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "第一晚住宿",
+      "lat": 49.056598,
+      "lng": -122.482466,
+      "description": "有提供沙發床，但因為是第一晚，所以對住宿沒有特別要求，到達時已經很晚，房東（住樓上）還出來接待我們，並提供簡易泡麵當消夜，房子算乾淨。住址：2991 267b St, Aldergrove, BC V4W 3B9加拿大",
+      "day": 1,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/c2a38524-5121-4b0c-8989-28628ccb93df_835a9566-aacf-4a72-9850-20dba2501559.jpg",
+          "full": "",
+          "caption": "室內有個小廚房冰箱、客廳都在一個空間"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/294edecd-838a-473c-8bdb-521a34fada81_a57a1b76-5527-4f83-920d-0dd2c6789a3b.jpg",
+          "full": "",
+          "caption": "第二天早晨出發前照房子周圍的環境－後院大草皮及菜園"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/49999ad8-e967-4478-83c8-5a04f3d989b2_6e51a470-4586-467f-a17c-0844f901fbc8.jpg",
+          "full": "",
+          "caption": "庭院旁的大樹"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/fa3cc758-07e6-4899-9784-66eacee94128_b0553509-b13a-4589-bb3c-96c26e2929a1",
+          "full": "",
+          "caption": "庭院旁不知名的大樹"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/8c93f6a3-58d9-455f-82ca-b879b9b6ba45_a9568dc4-8346-4327-aff3-aea42917402d.jpg",
+          "full": "",
+          "caption": "房東的菜園"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/75c63efa-b11c-4cac-9005-fecaa3bbf7b6_0e45af66-7b34-40ca-85ec-8c2c80cd6606",
+          "full": "",
+          "caption": "結果滿滿"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/21a5ff0b-de50-498e-8e01-f8a04035797f_dd6cd1bb-b2d1-4cb3-837c-652e070dcc48",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/4f7f3e0f-330f-494e-8588-13e60d82b80a_e08286b8-2735-4b6e-82d6-6477cb706a0b",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "7-11 買早餐",
+      "lat": 49.058293,
+      "lng": -122.470379,
+      "description": "第二天因為要趕路，所以一早起床整理過後約八點多離開住宿地點。途經熟悉的7-11，便購買早餐，開始了來加拿大的冷食經歷，芳梓買了榛果咖啡，覺得不錯喝就是了。",
+      "day": 2,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/75dcb4a0-0dde-4165-8932-3f7e8560e2e1_b0b8d81c-283c-41eb-a3b1-ce59b629ee53.jpg",
+          "full": "",
+          "caption": "臨時路邊發現的7-11"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/2a0c3e7b-9c65-42ba-8f18-438034ebe455_b4278de9-cdae-4797-9dee-507a3c2436ae.jpg",
+          "full": "",
+          "caption": "KIA駕駛座隨拍"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/ad33eb5f-c420-49d0-88d4-016f6ffe5bd0_b78cfb3c-20c8-4fd8-a02d-f0ec507e7f14.jpg",
+          "full": "",
+          "caption": "7-11 旁的街景"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/c42ba7ce-0e86-4e77-a125-0b4ed803ddc8_c4f2fa78-092b-49bd-bfa6-79ad6d67c153.jpg",
+          "full": "",
+          "caption": "哥來溫哥華的第一個早餐－溫哥華大亨堡"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "新娘瀑布 Bridal falls 停車場",
+      "lat": 49.184058,
+      "lng": -121.742791,
+      "description": "同行夥伴Tracy在導航地圖上看到不遠處有 Bridal falls（新娘瀑布）的路標，於是大夥決定下交流道繞過去走走同時休息一下。其中的森林小徑很短就可以走到瀑布下。是路邊休息的不錯的點。",
+      "day": 2,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/de1fb277-3082-4dc4-b8b2-655cedcad3d7_1c46422e-89d2-4519-ad9a-48bf0a9af1d6",
+          "full": "",
+          "caption": "入口的停車場"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6747cc96-0706-47ec-a863-404d2a9aead3_76c85653-8d69-4265-8247-a633507f76e7",
+          "full": "",
+          "caption": "停車場的廁所，歐美野外的馬桶大多類似台灣古老的馬桶，沒有沖水設備，只有一個洞"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/3358c693-e5bb-4bb0-b7ce-a1c0ce51e75a_90ff86f6-7543-44ea-a55e-f05741156e13.jpg",
+          "full": "",
+          "caption": "往瀑布的指標，約15分鐘"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "新娘瀑布 Bridal falls",
+      "lat": 49.181814,
+      "lng": -121.740046,
+      "description": "瀑布下方",
+      "day": 2,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6e6a418d-fe46-443a-ac41-765d2c5f0ea6_8c2bb02d-3825-469a-b3ee-59b01e08c5fa",
+          "full": "",
+          "caption": "岩壁上傾瀉而下的新娘瀑布（Bridal falls）"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/8cf60842-244f-4663-8baf-8ebfde0e17ce_5f5d4d13-fce4-4800-b239-c34e58aa8142",
+          "full": "",
+          "caption": "此行的團長 Linshi"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/15f15ff4-278b-4405-9627-f56e7a8f6231_467519c3-27c7-4caa-9ffb-287be1a93155",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/247c460f-2596-4280-8d89-e59b1d866b7a_5ceb5dca-96d1-442e-a2d3-276341704d15",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "車子暫停路邊餐廳停車場",
+      "lat": 49.37766,
+      "lng": -121.442162,
+      "description": "此餐廳外的停車場可以暫時停車",
+      "day": 2,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/c65991b1-db90-46d4-aab3-6cb63e30bb89_428aa033-5ff1-45b2-9cc9-5293d91f319c.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "name": "第一日：搭機前往溫哥華",
+      "color": "#3388ff",
+      "day": 1,
+      "points": [
+        {"lat": 25.076205, "lng": 121.229883, "routez": 0},
+        {"lat": 52.515258, "lng": -168.695191, "routez": 0},
+        {"lat": 53.22345,  "lng": -157.817445, "routez": 0},
+        {"lat": 53.134868, "lng": -145.134045, "routez": 0},
+        {"lat": 50.638744, "lng": -134.303917, "routez": 0},
+        {"lat": 49.194068, "lng": -123.180595, "routez": 0},
+        {"lat": 49.193597, "lng": -123.179345, "routez": 0},
+        {"lat": 49.056598, "lng": -122.482466, "routez": 1}
+      ]
+    },
+    {
+      "name": "第二日：HOPE 小鎮",
+      "color": "#ff8c00",
+      "day": 2,
+      "points": [
+        {"lat": 49.056598, "lng": -122.482466, "routez": 1},
+        {"lat": 49.058293, "lng": -122.470379, "routez": 1},
+        {"lat": 49.184058, "lng": -121.742791, "routez": 1},
+        {"lat": 49.181814, "lng": -121.740046, "routez": 0},
+        {"lat": 49.37766, "lng": -121.442162, "routez": 1}
+      ]
+    }
+  ]
+}
