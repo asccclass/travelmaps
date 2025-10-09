@@ -48,6 +48,11 @@
           "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/ea795dd3-cc1e-4b24-ba43-ba706ee8064e_7bb9b305-2549-486f-be5c-9aa31c047331.jpg",
           "full": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/ea795dd3-cc1e-4b24-ba43-ba706ee8064e_7bb9b305-2549-486f-be5c-9aa31c047331.jpg",
           "caption": "長榮航空的飛機上提供低速的WiFi 可以使用，這次位置預約在機尾，感覺飛行時的噪音小很多，還是兩個人的座位，超級棒。"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/187e4849-8ef0-400b-80fd-0411b6fbd1ee_3efe2a8e-e96f-420c-9b4f-ab8aaf10cc8e",
+          "full": "",
+          "caption": "這次嘗試坐機尾的兩人座，不用跟別人同坐，很自由"
         }
       ]
     },
@@ -86,13 +91,23 @@
       "name": "溫哥華（Vancouver Airport）國際機場",
       "lat": 49.194068,
       "lng": -123.180595,
-      "description": "經過漫長的飛行，終於抵達溫哥華國際機場",
+      "description": "經過漫長的飛行，終於抵達溫哥華國際機場。但想要使用APP先報關，結果還是不行，只能用機場內提供的機器進行報關手續。",
       "day": 1,
       "photos": [
         {
           "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/d7d5fce4-14f9-447f-95da-77a95608f64f_b257a2a6-bc51-4e2b-a41b-242dccde0c5a",
           "full": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/d7d5fce4-14f9-447f-95da-77a95608f64f_b257a2a6-bc51-4e2b-a41b-242dccde0c5a",
           "caption": "先來個成員小合照"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/92f8b198-3edc-445e-8a34-bcaa90def8b5_db46708f-1c5e-4523-bde4-3e93e619ba5d",
+          "full": "",
+          "caption": "使用 APP 報關不成功，只能使用機場內的報關機器"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/8a952b35-4ca7-421a-acb1-3c19bb597d25_4aed1a2b-ff60-4e48-b8f3-472246f853fe",
+          "full": "",
+          "caption": "出關後，就準備前往機場對面的停車場取車啦"
         }
       ]
     },
@@ -157,7 +172,7 @@
         {
           "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/75c63efa-b11c-4cac-9005-fecaa3bbf7b6_0e45af66-7b34-40ca-85ec-8c2c80cd6606",
           "full": "",
-          "caption": "結果滿滿"
+          "caption": "果樹結果滿滿"
         },
         {
           "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/21a5ff0b-de50-498e-8e01-f8a04035797f_dd6cd1bb-b2d1-4cb3-837c-652e070dcc48",
@@ -168,6 +183,21 @@
           "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/4f7f3e0f-330f-494e-8588-13e60d82b80a_e08286b8-2735-4b6e-82d6-6477cb706a0b",
           "full": "",
           "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/01e8c7c5-7a18-4a2e-aecb-0e5d13e88ae4_38c33b18-892b-4c55-a52a-77fabdda9078",
+          "full": "",
+          "caption": "打包行李中"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/aba98b13-6b30-4f96-8873-cb856fa690f7_c055059b-2af5-41f5-812c-4c68523842e8",
+          "full": "",
+          "caption": "灰色的沙發就是我跟林晰第一晚睡的沙發床"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/1e5b6aa9-6c08-4b51-9b71-06d3eb1f3e0e_d53c5bb0-0b6b-4cc0-957c-3e651abf852b",
+          "full": "",
+          "caption": "隔天一早準備往下一個目的地出發了喔"
         }
       ]
     },
@@ -290,6 +320,431 @@
           "caption": "可以把頭伸進去拍照"
         }
       ]
+    },
+    {
+      "id": 14,
+      "name": "Hope 小鎮遊客中心",
+      "lat": 49.377239,
+      "lng": -121.442044,
+      "description": "這邊可以拍照，小房子上面有HOPE字樣",
+      "day": 2,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/75a42c85-6ef2-408e-9bf8-3733525a12ba_b5334a2c-84d3-4c25-aa8f-7c512e4eaeba",
+          "full": "",
+          "caption": "小房子上面有HOPE字樣"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/e3da3969-4cc0-477a-9208-5efd26d85730_79b189f8-96bc-4153-a5d5-bfeb8b55a557",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/8bb4bf39-caf5-4dab-a35b-aa9dc65e3ef8_d114a241-f077-41c5-958a-64f0427420e6",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Hope Mountain Cafe 吃午餐",
+      "lat": 49.379457,
+      "lng": -121.441933,
+      "description": "這間路邊咖啡廳，可以吃午餐，餐點還不錯，價格也合理。",
+      "day": 2,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/20008463-24f1-4af7-81c3-ed71b78ba697_16803895-54e8-494e-950e-d7678bdb518a.jpg",
+          "full": "",
+          "caption": "咖啡廳外就是這個雕像"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/1a4fe1fd-9cb4-4310-8fd2-003ff8542ef1_c46005f7-22c5-4745-9687-5c5a3e00ab6e.jpg",
+          "full": "",
+          "caption": "咖啡廳的菜單"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/287d6145-b79c-43f2-95eb-a61b6da3911b_f7f1cba3-624a-4259-889d-565a552a542b",
+          "full": "",
+          "caption": "我點了 Vegan Hummus Salad Bowl 18.95 CAD，內容豐富，好吃"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/cb6f2a4c-6af5-4c75-8fc6-fb1e281e8c78_a91873b2-287c-4af0-b05a-e83b83ee7ee7",
+          "full": "",
+          "caption": "老婆因為想吃熱的，所以點了越南牛肉河粉"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/038019a4-0a6e-4d53-8587-90fef85048c8_514242d3-2785-48b5-9ad8-ce601dca1eab",
+          "full": "",
+          "caption": "有附三塊小麵包，連我這大男人也都吃得飽"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "窗外隨拍",
+      "lat": 50.590456,
+      "lng": -120.476099,
+      "description": "遠處山景優美。",
+      "day": 2,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/2f3c4569-c4ec-4c00-8033-f218e7305b66_7c67222a-bbbc-4458-9ed2-22a0d59550e7.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6533da0b-4a01-4c91-8ec6-a618614fb162_e6cd47c4-6c24-498d-a097-b572cb0f0111.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Kamloops 的 Statbucks 休息",
+      "lat": 50.679862,
+      "lng": -120.272733,
+      "description": "在路邊的 Statbucks 休息上廁所並買杯無糖紅茶。",
+      "day": 2,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/7e42589e-8465-4011-90ba-a34d3bf0e69d_138298ea-c8c7-4db6-a4df-e15e28be0a2b.jpg",
+          "full": "",
+          "caption": "無糖紅茶"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "路邊隨拍",
+      "lat": 51.041973,
+      "lng": -120.223225,
+      "description": "車上隨手拍路邊風景。",
+      "day": 2,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/19ed71a4-0ff3-4060-9710-8bd7d90543bd_a25f3771-3821-475a-9bfd-0ac9ac3055dc.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/4e9d106c-0802-44e4-8384-806ac877c57e_1f27fe16-bba3-4879-af67-6174a216465d.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "路邊隨拍－倒掉的樹木",
+      "lat": 51.096936,
+      "lng": -120.157295,
+      "description": "車上隨手拍山上倒掉的樹木。",
+      "day": 2,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/e699a4ce-94a9-4bec-955e-b2a00d87c43b_204d5768-25fc-458b-8825-bfbcbf7b1e15.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/8267a01e-f4ff-47bf-94a2-72ae83eff1f0_797d651c-7af1-476e-a8aa-86c58812f416.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6adfd692-2dc1-44f4-8575-b32a9692dd7b_7e11e96a-d315-4418-87aa-61f84fe76ccb.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "路邊隨拍－車前風景",
+      "lat": 51.041973,
+      "lng": -120.223225,
+      "description": "車上隨手拍車前風景。",
+      "day": 2,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/06313551-3d9b-4591-92e2-5d4eeefa931e_9e211dda-5278-4b3a-8272-bf25cf74e10c.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "路邊隨拍－河景",
+      "lat": 51.106088,
+      "lng": -120.138621,
+      "description": "車上隨手拍鐵橋的河景。",
+      "day": 2,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/270bc2a4-4536-45a6-8b02-ee25e96a6513_b419f746-0404-4537-bcba-dbef002d3c26.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "第二晚住宿地點",
+      "lat": 52.837251,
+      "lng": -119.261098,
+      "description": "到達民宿（1096 Juniper Street Valemount BC）時天色已經有點暗，民宿老闆（Michael）還親自出門開車來接我們，一開始以為是路人，結果迴轉時被房東堵在路邊，才知道是房東。抵達後，還去附近 IGA 超市買了晚餐及隔天的早餐。民宿晚上睡覺不時還可以聽到火車鳴叫聲。",
+      "day": 2,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6d02623e-fd53-452e-afa3-9f1dc19b334b_8bb3dbb7-97c4-4234-8d39-19cc67f314cd",
+          "full": "",
+          "caption": "進入 Valemount 小鎮的路標"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/d4c9297c-2798-4a95-9b0d-e0ec938ff03e_a89c7c2d-89b6-439f-aad1-25190eef469a",
+          "full": "",
+          "caption": "民宿的入口的大石標誌"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6d091ed6-4fd9-4dac-917b-c7f88d0ceb5f_9a65be21-e519-4c36-b123-b9aab84e4cb2",
+          "full": "",
+          "caption": "民宿的車庫"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/d883a659-6fb5-477b-b41a-d0d2b1d0a0d8_c927bb0a-bfb5-429c-94db-b65ecdab21f4",
+          "full": "",
+          "caption": "與第一晚依樣都是住半穴居式的Airbnb，入口在樓梯下方。"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/40c3682c-9061-4910-abcd-9393e81d6844_04509cae-61d9-4576-b8e4-5835a83a0e79.jpg",
+          "full": "",
+          "caption": "客廳寬敞，有暖爐，廚房設備齊全，但廚房電器不能同時開啟"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/27a627d5-31ea-4b5a-80c7-1cdca3953355_7b57f3be-8e50-40f2-8dd3-06e2fe09a4f7",
+          "full": "",
+          "caption": "民宿房間內的導覽地圖"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/79906e65-8dfa-44c3-a861-27b8cfea4937_3c313fb9-c452-4e96-974b-526970aceaef",
+          "full": "",
+          "caption": "民宿旁的樹木"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/0b612cfe-6762-41fc-b8aa-29f4b95d8d96_b01e9a45-827d-498c-8467-f304fc185d65",
+          "full": "",
+          "caption": "民宿旁的樹木"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Jasper 國家公園收費亭",
+      "lat": 52.819204,
+      "lng": -118.05309,
+      "description": "這邊因為很多露營車要通過，又遇到現場買票的車輛，所以有些小塞。",
+      "day": 3,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/899b61b9-60c8-4c2d-abba-75c0b19f0ae7_8d62f153-cf0f-4bbd-a9df-1856228b0cb9",
+          "full": "",
+          "caption": "警示牌"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/d5870b9c-508e-42d4-8f2c-2e6ef081edef_65501336-04ed-4b5e-9234-a798540d91b6",
+          "full": "",
+          "caption": "警示牌"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/48817052-d101-4ada-91b2-2e04e63558bc_7cf911c1-ca17-4105-bac0-7423488b7478",
+          "full": "",
+          "caption": "國家公園買票處"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Mt Edith Cavell 迴轉停車場",
+      "lat": 52.773534,
+      "lng": -118.030383,
+      "description": "本來要前往 Mt Edith Cavell，可惜路封了，但因為沒有把導航點刪除，所以還是來到這個封路處迴轉，沿途都是燒過的山林。",
+      "day": 3,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/64877d4a-8201-4b61-a603-6cc3f882ba35_5064e9d5-67f0-4ace-9ed1-5f0f28e46c54",
+          "full": "",
+          "caption": "迴轉停車場"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/63ba1268-84ff-432e-81a2-c33fa4b0c816_f2884fbc-0f21-417f-8d39-9740e6efd6bf",
+          "full": "",
+          "caption": "警示牌"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "金字塔湖",
+      "lat": 52.916079,
+      "lng": -118.10157,
+      "description": "來溫哥華參訪的第一個湖。",
+      "day": 3,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/fd9fd9fc-915e-42f1-a457-129159d825dc_c3930742-6b5e-4698-8838-157b52176229.jpg",
+          "full": "",
+          "caption": "金字塔湖的停車場"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/5dc884c1-435f-4d62-9a16-eb26445d9e1f_615f20e3-7cd3-4222-a331-0f51f62cac42.jpg",
+          "full": "",
+          "caption": "停車場旁邊有個小廁所"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6e0690f8-6c88-4c3d-baa2-35bad3424918_14530c97-0a64-4c2e-8a5b-74a847dfcbec",
+          "full": "",
+          "caption": "停車場往湖眺望"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/e68cbed9-a520-428d-81ac-a120c8f6a258_03995eb2-ef3c-438d-9d21-f775bdf45836",
+          "full": "",
+          "caption": "湖邊遊客告示牌"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/21729824-8d26-4909-825c-f64935e22b13_74205ad0-6f47-4872-a2c3-5e251e5ae1cc",
+          "full": "",
+          "caption": "湖邊熊出沒的遊客警示牌"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/403c4be5-7e5f-4bb0-adf4-ad5ebc83c813_16b24d3a-b35b-4d49-80ae-81fdde60c6b6",
+          "full": "",
+          "caption": "湖邊地板為沙地"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "金字塔湖岸邊小徑",
+      "lat": 52.915357,
+      "lng": -118.098504,
+      "description": "湖邊有條小徑可以沿著湖邊走。",
+      "day": 3,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/18ea55bc-a2f0-4d87-8c36-dc98fbdd9259_2ca39f28-bc73-4558-a014-097e874679bf",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/340e911e-05ee-477c-b72c-8b559dfa4c04_c511eb75-b6c4-4f76-a4f0-05f09cdcf134",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "金字塔湖岸邊小徑-轉樹林",
+      "lat": 52.914153,
+      "lng": -118.095255,
+      "description": "從這邊可以穿越樹林走到馬路上。",
+      "day": 3,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/1737ec05-c3e4-476a-8617-0f0ae13ab816_57c99af6-a54f-43c8-8f69-1ee23f144748",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/94d28b3c-1eae-4a01-8a45-07a8570e018b_6307d01c-5f42-4460-91f2-00d8abc6c3d6",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/4c759fe9-c63a-41fa-8da0-70ab850b33b8_2bb49f24-1392-4e6b-a231-eec4d3e5ea6c",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/22e063a9-1122-428d-a646-9ec66b4d8fbb_e77199ae-c7d0-4933-8c33-8e87a2f2e9d6",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "金字塔湖馬路上",
+      "lat": 52.915314,
+      "lng": -118.089696,
+      "description": "馬路上往金字塔湖觀望。",
+      "day": 3,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/0e962186-8135-4901-8239-07a426c2941c_e7666494-4683-4d12-a013-2d7d0a4d3f22",
+          "full": "",
+          "caption": "眺望湖中碼頭"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6690b648-728f-402f-8f3e-aa44f4c84a6d_bf5ff9de-38cd-4240-b66d-0b610204ba06",
+          "full": "",
+          "caption": "路邊交通公車路線圖"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/f82f0c3e-72a7-4a0d-a95b-22f8afc47099_b8dde9f4-f292-4328-8704-0f6ea5f9e262",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "金字塔湖碼頭",
+      "lat": 52.916004,
+      "lng": -118.089470,
+      "description": "金字塔湖上面供出租獨木舟的碼頭，上面也有椅子可供觀湖。",
+      "day": 3,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/d84dc846-3845-417b-858c-989eb7eb63c7_d49efafd-577e-4eed-8040-ea2f390ab595",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/d796894e-b0cb-4cd2-ba92-f67d7a11ffda_cc84bcaa-3556-4062-ac3e-6aa9e356ef66",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/d6ae27c4-85d0-4ae6-8b0d-a1477f6bfa23_c39c5720-d273-4fed-bd0a-f83983c39ef3",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/286b50e9-88d6-4dcb-b69d-24d7ffbce694_1a92c9b0-8643-4cc3-88ee-e43b80165818",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/fe20e54b-30be-4942-a5f0-a4abc27aaf17_2460c8ba-e84f-46d1-b773-87b7009eebe8",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/2d19481d-9a5c-4531-8a6b-5efbc2c5ae35_fd1b464c-ee74-4d4d-9da8-4e1ef932b3e7",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/55ff2d0c-2e5d-41ee-b613-21a9decdc116_62aefb61-e14c-4d0d-9424-4df1b3d4ebfe",
+          "full": "",
+          "caption": "正常版"
+        }
+      ]
     }
   ],
   "routes": [
@@ -309,7 +764,7 @@
       ]
     },
     {
-      "name": "第二日：HOPE 小鎮",
+      "name": "第二日：Valemount",
       "color": "#ff8c00",
       "day": 2,
       "points": [
@@ -317,8 +772,33 @@
         {"lat": 49.058293, "lng": -122.470379, "routez": 1},
         {"lat": 49.184058, "lng": -121.742791, "routez": 1},
         {"lat": 49.181814, "lng": -121.740046, "routez": 0},
-        {"lat": 49.37766, "lng": -121.442162, "routez": 1},
-        {"lat": 49.377122, "lng": -121.442364, "routez": 1}
+        {"lat": 49.37766, "lng": -121.442162,  "routez": 1},
+        {"lat": 49.377122, "lng": -121.442364, "routez": 1},
+        {"lat": 49.377239, "lng": -121.442044, "routez": 1},
+        {"lat": 49.379457, "lng": -121.441933, "routez": 1},
+        {"lat": 50.590456, "lng": -120.476099, "routez": 1},
+        {"lat": 50.679862, "lng": -120.272733, "routez": 1},
+        {"lat": 51.041973, "lng": -120.223225, "routez": 1},
+        {"lat": 51.096936, "lng": -120.157295, "routez": 1},
+        {"lat": 51.106088, "lng": -120.138621, "routez": 1},
+        {"lat": 51.106088, "lng": -120.138621, "routez": 1},
+        {"lat": 52.837251, "lng": -119.261098, "routez": 1}
+      ]
+    },
+    {
+      "name": "第三日：Jasper 金字塔湖",
+      "color": "#00ff00",
+      "day": 3,
+      "points": [
+        {"lat": 52.837251, "lng": -119.261098, "routez": 1},
+        {"lat": 52.819204, "lng": -118.05309, "routez": 1},
+        {"lat": 52.773534, "lng": -118.030383, "routez": 1},
+        {"lat": 52.773534, "lng": -118.030383, "routez": 1},
+        {"lat": 52.916079, "lng": -118.10157, "routez": 1},
+        {"lat": 52.915357, "lng": -118.098504, "routez": 0},
+        {"lat": 52.914153, "lng": -118.095255, "routez": 0},
+        {"lat": 52.915314, "lng": -118.089696, "routez": 0},
+        {"lat": 52.916004, "lng": -118.089470, "routez": 0}
       ]
     }
   ]

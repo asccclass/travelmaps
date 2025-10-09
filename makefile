@@ -52,6 +52,7 @@ re: stop rm run
 
 clean:
 	go clean
+	
 push:
 	git push -u origin ${STATUS}
 s:

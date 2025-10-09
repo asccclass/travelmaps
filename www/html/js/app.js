@@ -1,4 +1,4 @@
-const base = '/travel';
+const base = ''; // '/travel';
 // 初始化地圖
 // const map = L.map('map').setView([25.0340, 121.5300], 12);
 // 初始化地圖
@@ -72,7 +72,7 @@ fetch(base + '/api/days')
         // 全部顯示按鈕
         const allBtn = document.createElement('button');
         allBtn.className = 'day-btn active';
-        allBtn.textContent = '全部顯示';
+        allBtn.textContent = 'All';
         allBtn.onclick = () => filterByDay(0);
         dayButtonsContainer.appendChild(allBtn);
         
@@ -80,7 +80,7 @@ fetch(base + '/api/days')
         for (let i = 1; i <= totalDays; i++) {
             const btn = document.createElement('button');
             btn.className = 'day-btn';
-            btn.textContent = '第 ' + i + ' 天';
+            btn.textContent = i;
             btn.onclick = () => filterByDay(i);
             dayButtonsContainer.appendChild(btn);
         }
