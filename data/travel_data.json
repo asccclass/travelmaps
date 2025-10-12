@@ -745,6 +745,1450 @@
           "caption": "正常版"
         }
       ]
+    },
+    {
+      "id": 30,
+      "name": "Pyramid lake lodge",
+      "lat": 52.916250,
+      "lng": -118.089202,
+      "description": "在這個湖邊小屋前的椅子上吃午餐",
+      "day": 3,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/0082bcf0-c085-4c8c-9391-a635906b2338_df7ffbf8-aa39-4ee8-9495-207c70a7f161.jpg",
+          "full": "",
+          "caption": "旅館前的火爐及座椅"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/702152b5-7e6f-470c-98f5-31cfb6992716_299f0607-7967-44c5-b9e9-8ef623edf195.jpg",
+          "full": "",
+          "caption": "眺望遠方的金字塔山"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/2054d2ab-07e6-4043-a999-883ab6857d92_bbe30c34-82d7-4b0b-a364-39d50534bbfa.jpg",
+          "full": "",
+          "caption": "抬頭恰逢金字塔山上面有飛機飛過"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/d96e8b79-cc29-4355-b664-194b626a8d28_17c59ce2-5621-486d-881a-f72324fe5d99.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "金字塔湖岸邊小徑",
+      "lat": 52.92193,
+      "lng": -118.095031,
+      "description": "湖邊道路凸出點。",
+      "day": 3,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/57cdc8db-4b03-4187-875f-95aaf1c75781_64f33890-23b9-4524-b068-1b384f7ec334.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/172cd29a-7e2e-48bd-891d-d1a2a1b276c9_d741658e-ebc2-47d8-b648-c92c786e2fe2.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/28a09461-df4a-4e55-9e53-f1d9967d1854_451717d4-52bd-42e2-bb88-f3691ca8452d.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "金字塔湖（Pyramid Island）-橋",
+      "lat": 52.924419,
+      "lng": -118.096979,
+      "description": "連接金字塔湖與湖中小島的木橋。",
+      "day": 3,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/efbb8e8f-806d-4b6e-bcb4-6051e8707d7f_fdc7e131-a923-43b0-90fa-07a211e6d279",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/efbb8e8f-806d-4b6e-bcb4-6051e8707d7f_fdc7e131-a923-43b0-90fa-07a211e6d279",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "金字塔湖（Pyramid Island）",
+      "lat": 52.924881,
+      "lng": -118.097863,
+      "description": "島上面有個小亭子湖邊及座位可以坐著賞湖。",
+      "day": 3,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/7cdd9e7b-3f84-4eab-93ef-02b7888fedcd_b5f0ca94-88d1-4476-9899-85d25a52e42c",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a4a57820-059c-4b0f-b561-a568fe97fdc0_9af68c20-d886-4bef-bb9e-70d7ff6a5ddd",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/e0bfc9b9-b48d-43ee-bd8e-fa2d85ffe65a_bdc00bea-ca4e-40dd-9bfe-1ff3a0f0dc4e",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/00beff41-bb52-45d7-b671-c46dad4ea2e5_ca7b76f4-cfe6-4376-af12-69ce5713fc35",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Freson Bro. 超市",
+      "lat": 53.425253,
+      "lng": -117.543049,
+      "description": "在這家超市買了第一天的晚餐及隔日的早餐。",
+      "day": 3,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/19bedbad-af47-456b-948a-fe5ecac87334_8ed3f97d-db9b-4792-9ee2-e19ef6be4d86.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "第三日住宿點（Hinton）",
+      "lat": 53.428255,
+      "lng": -117.530316,
+      "description": "很精緻的房子，洗衣、烘衣機都有，可惜只有一間廁所，人多就會擠一點。晚上也會聽到火車的聲音。",
+      "day": 3,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/4a4ef6ba-10cd-4715-aea8-3ef08b47126b_1ef653af-ad1c-4066-a411-fd43ab1cab0b.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/b731d313-2c43-48ae-bffb-b32a79278edd_2dfc79ed-5c4e-4426-98d4-b07d94fb687f.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/3da0d195-e6bc-4927-8b7d-c0293f5d6f53_77c89f06-38e3-414d-9397-e85a51bad86b.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/31a9d67a-41cb-4753-95cd-80b715987c4d_d0878196-12a6-403a-945f-74973318dee4.jpg",
+          "full": "",
+          "caption": "廚房也很完善，有洗碗盤機、微波爐"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/b98891c8-f08e-4c8d-9e61-40602021fdac_e4d7b2b9-816b-4806-814b-2e0d440b39ec.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/fcb8b863-14e8-47bf-8212-918f385abfc9_dcfcffa4-8d4e-4d04-9b77-9b4edb7b5794.jpg",
+          "full": "",
+          "caption": "廁所外面有洗衣機、烘衣機"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/f54dfdd9-da83-4925-8ce9-7194430d6e55_31481d38-7fb9-4e40-a614-9a522c21da19.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/180e9d59-c578-461b-8819-e4f5039cde79_99b07c39-7054-48ab-9d2f-e8a7f417e69b.jpg",
+          "full": "",
+          "caption": "廁所也很乾淨"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a38a5535-06b5-43b2-8ebc-cd9132545468_d46d14f7-a960-495e-ac7d-8971c9621148",
+          "full": "",
+          "caption": "門外可以直接停車"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/05223fa6-7cea-4c0e-ae0a-edcd9764f246_0661f965-b719-4564-9236-1b9b7ca1cff8",
+          "full": "",
+          "caption": "從客廳外的窗戶看戶外景致"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "第四日清晨車子結霜了",
+      "lat": 53.428259,
+      "lng": -117.530280,
+      "description": "一早起床外面異常冷，發現車子外面結一層白白的霜",
+      "day": 4,
+      "photos": [
+	{
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/977855e9-1856-4555-bbc9-c00a3d3a71e6_5ed62133-a99c-452e-8ccd-46dc535a3d73",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/acc482d8-1c4c-418d-81d4-da7594efb3e5_90cf9052-9a93-4bf1-823e-f48920164001",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/ebaae956-18e9-41dc-b1d9-7a18567c06a1_f039e9f6-8f15-4022-a421-76349757b107",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/fd538942-1806-46a6-9ddf-14e06eb57e6f_e971b968-0e74-4065-9c1c-0c3167a7f5e9",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/56c347c2-e866-4ffd-beac-12225dad3092_117e7c29-6e98-4e58-8a4c-63e2366d60bf",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "TEMPO Grocery & Gas 加油站",
+      "lat": 53.423284,
+      "lng": -117.542898,
+      "description": "加油站加油。",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/35aabc7a-e719-4001-a02d-ca68a6846d76_3920d812-83f2-49f9-8801-d6cd2d1b9261",
+          "full": "",
+          "caption": ""
+        },
+	{
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/84af181d-5306-4d90-908d-6b2b5aa52cfc_df119a08-1505-42c5-b5a0-b03114b09e14",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "路邊休息站",
+      "lat": 53.239024,
+      "lng": -117.794197,
+      "description": "Folding Mountant West Area Rest 休息站，停路邊拍照，因為面向下坡，風很大所以超級冷，路邊有廁所。",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/baab325b-af89-497a-912e-c572be2ba1e4_5216551b-b208-4ba3-a149-6b1939958077",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a38a1459-ba0c-4795-ab46-f23343724860_c2ac724d-02c6-4d0c-b56a-48c562e698d5",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/03998c8b-e597-4b2d-a8a7-86a0f548b16e_947196de-8373-480d-9ce4-bb9f69f6cbe4",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6743c3e2-c824-4daa-b269-2ae6b648ee1c_f36a668e-62c0-4a59-84b3-d0b81c9a77b7",
+          "full": "",
+          "caption": ""
+        },
+        { 
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a0dde843-4623-4737-be03-e407f98e6b44_c71d4564-db86-41a6-ad4e-09674393f4a4",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/68fde59f-e403-4cb9-a305-beba1e9cef1e_14476a71-46c8-4908-aad7-7691b43b2ac9",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/37d8e3bb-e3e6-4a5f-91de-3ee2fa18891e_2c976735-1f71-4ab2-95b5-e847e7980941",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Jasper 國家公園驗票亭",
+      "lat": 53.221984,
+      "lng": -117.837048,
+      "description": "進入 Jasper 國家公園的驗票亭",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/f75d0486-8451-4126-b39b-23379a836032_f5ce86a5-8c47-48d2-8973-1baa47a755a6",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/b6019dac-96bf-488a-9b69-124c105b56fb_587fa8b2-3437-47f2-97d4-894df21f3a89",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/41064dc3-5367-40db-8cb8-7e2c7e67719f_20402db9-8a09-4692-ad55-4fea9e21c95d",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/d9a91548-e09b-4981-84af-46cec6f5d284_e5c5e25c-2ae4-4810-bd42-26f4db03bb00",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "路邊漂亮的河灣休息區",
+      "lat": 53.166821,
+      "lng": -117.97354,
+      "description": "在這休息及拍照。",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/b47a0293-ad51-412b-a86b-78176b628a2f_0d4565ae-9f10-4ac9-a944-22febcd7ecfc",
+          "full": "",
+          "caption": ""
+        },
+	{
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/9d192c48-79c4-457e-ac97-667f5e8e1184_3ceef860-26ef-43b2-b5c9-1237c437e02c",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/28c3e9a7-8339-4099-a218-f5a72a0cbae0_2624fc4e-74e6-4c74-a5c0-ad40b0dc1287",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/025b260c-fa75-41b4-a061-57ef0e6b14ac_7ca23051-a32d-4456-b92c-15bed0b346f0",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/546c24fb-4e96-406e-96ac-8d0152d22ba7_9f0f81fe-d057-4631-93b9-2d28309b8183",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/efb3e449-63ad-4ff2-8999-5ad5d244177f_43ef3dc6-6348-408e-920f-f7d2c6470520",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/e735cf65-e66f-4290-a2aa-03dd275da262_49fafec2-cc06-4f1f-bf27-e68555479180",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/4bdae3f0-dd0c-4c2f-94ce-3055769cd2fe_c31dbeca-4684-4e4f-badb-1261e26137ab",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/4de23e51-a7db-4de4-8175-730f0e2a18cc_d45e556b-d7c0-4381-8e74-6c24249043a1",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/b7ce5abb-727a-4bf7-8d2c-99a42e6a7718_8aa90dcc-dc60-4440-98ee-a09a1679860f",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/afcc1806-c20f-4e30-be48-5bf7c8677446_21edadc1-0b14-43d4-b748-49cb2d8d9025",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "高速公路旁休息區",
+      "lat": 53.084393,
+      "lng": -118.028924,
+      "description": "比較大的休息區域，對面可以看到火車經過",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6e9afe75-ccb5-4de8-b58e-da88f35e4056_e405d7f1-2125-4b45-9318-216db9c3a659",
+          "full": "",
+          "caption": ""
+        },
+	{
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/02610dc2-ed39-4d26-bc49-028a219ee67c_caee94e7-3c81-4be0-8b88-df179835222c",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/c91a6341-bfcb-44de-95bc-16147edff7d0_495fcf81-94d5-45f5-8012-fdd1b2a4619d",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/9bba3978-eae5-4f81-abd8-0c6581f97e7b_ad8cebd2-2f60-4835-9348-e13f359dd23d",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/e0f2f495-5ebd-4e96-977e-1fe9554f5308_2c53b3aa-036f-4a52-9280-ac1bf958a48a",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/e4f7d569-49f6-4393-95dd-9fa12aa45c06_c1a7c85d-4bd8-436a-8558-79af7ae7539b",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a0e07e9d-e785-4124-9af4-fa4e31deeeb7_cd3bfd26-1d6b-4ec2-8308-6f89edafd5ac",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/809837aa-c354-49d6-95b4-d8cea0520acc_b71dd14e-01d4-4df4-9732-c1879f6ccff1",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/b82808d0-524f-472f-b962-5264ae1c4657_651ed9ac-6b5d-4271-9375-e6dcfdd87451",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/8b4d524e-7265-47c7-8a22-41496600f7eb_b77c52a0-5d5b-45d0-9f22-dd0dc9d4b25b",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6cd61324-6d4e-4429-845e-d71f3911c8aa_adb18578-457a-4c6a-abff-df57a15749f0",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6cd61324-6d4e-4429-845e-d71f3911c8aa_adb18578-457a-4c6a-abff-df57a15749f0",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/3237f23a-4298-4769-a374-30df6e9304f1_76871fe6-909d-4a82-b4f1-b9459989567f",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Medcine lake",
+      "lat": 52.873306,
+      "lng": -117.805197,
+      "description": "前往目的地途中的湖，水量不多，但兩側的山很壯觀。",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/ad3942f3-1ead-4399-9247-3c2d1b5c32c4_aa990ae8-eec9-43e7-8fc5-577fdfb42544.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6f8e19ff-9070-4263-b217-fe7822bfb9ff_407e2197-5dcc-42f2-9995-5ae346a5b82f.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/e9ae5a63-1212-49e5-991b-aa13e15f137d_59edc078-e9de-48c3-a749-b34ef6deac90.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/d5a2ad58-7c7a-485d-bcf3-3f5ecc178444_348eabd3-fc7c-4f28-9ab3-2827ba293cd8.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/ee039952-bed5-450d-933e-ecedc0d6e104_96489d54-168a-497c-b9a4-29e2e18f4b5b",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Medcine Lake 步道",
+      "lat": 52.871834,
+      "lng": -117.804854,
+      "description": "Medcine Lake 停車場下方有個環湖步道，有空可以去走走。",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/05cf5050-5880-4dd6-a88e-e9f0a7323dde_ca077042-c94a-4fd9-b18a-1d0849e8dc67",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/2293d956-c837-4d0a-99d6-333c31b81fe8_6ba21fff-cc5e-424a-8295-4d458582eb37",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Medcine Lake 步道遠眺",
+      "lat": 52.871049,
+      "lng": -117.804074,
+      "description": "從環湖步道往對面山上看。",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a6a4f036-d4ac-4a98-b406-19af136f27d0_ac47eb5e-af1d-4254-85cf-5ae095294144.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Medcine Lake 湖邊風光",
+      "lat": 52.851294,
+      "lng": -117.738197,
+      "description": "",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/dba55e58-e2b5-4bd4-a8f8-f3b365c5748e_6296371b-896b-492a-a0a1-800cac09160e",
+          "full": "",
+          "caption": ""
+        },
+	{
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/5d1c26d7-8ef2-4311-a93d-25ac01470f18_dcf92aa4-ef1c-4cd4-891e-f07b6e719ad6",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "從底部遠眺Medcine Lake 全景",
+      "lat": 52.837067,
+      "lng": -117.71835,
+      "description": "",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/d93a5df9-7e4d-430f-a125-e3a2ff19b29f_8e7799b3-b293-4400-b288-bc63005a626e",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Medcine Lake 與 Maligne Lake 之間的河流",
+      "lat": 52.831713,
+      "lng": -117.713202,
+      "description": "",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/417a78b6-ce85-480a-8e16-9da5117d5835_9dac2d67-9a51-488f-accc-8a7b18c452aa",
+          "full": "",
+          "caption": ""
+        },
+	{
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/18341b3a-9a25-4efa-b556-685f774b1a38_103283ca-331f-40e6-b7ad-c33efb7f6ac7",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "至 Maligne Lake 途中山路",
+      "lat": 52.792537,
+      "lng": -117.689562,
+      "description": "",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/17433ba7-317f-43b6-8f03-314e6c531ea8_5b29dc9c-0fa3-4d00-92bb-6076e1a586b8",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Maligne Lake 途中溪流",
+      "lat": 52.772853,
+      "lng": -117.691546,
+      "description": "",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/72943f9f-ffca-43b7-8011-8449e3ea9cd7_aa55b9e4-419f-4f7b-af3d-f73bf4f5a37d",
+          "full": "",
+          "caption": ""
+        },
+	{
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/c360c52f-b3a0-4679-8b47-a4659aa7eeec_7365b02b-e4c5-44fd-8e88-57974ef8ab36",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Marline Lake 停車場",
+      "lat": 52.729458,
+      "lng": -117.637056,
+      "description": "Marline Lake 共有兩個停車場，若第一個停車場滿了，可至第二停車場停。",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/15409143-7884-4a22-8702-b370aa3515e7_18542079-1c0c-4bdf-b211-63560c814142",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/31a0c658-c165-4510-8794-5e2f9bbe8fd3_e5cf04a8-f96a-4459-91f5-ef5d33ff20f1",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "停車場廁所",
+      "lat": 52.729175,
+      "lng": -117.639473,
+      "description": "停車場唯一一間的公共廁所",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/8282f603-68ba-499c-b15a-af2c6a77fb62_99a06fba-bd79-46ab-aec6-f91912762d3f",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Marline Lake 遊湖船等候處",
+      "lat": 52.728967,
+      "lng": -117.640136,
+      "description": "等船時必須準點，太早到也不行，服務人員會請您旁邊稍後。所以就跑到旁邊小吃部買了東西邊吃邊等。時間到了，就可以驗票上船了。",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/7f4eaf29-a2bf-4b7e-8918-aa1a0be9d61b_3d19baa5-def9-4d02-b7fe-cf0c97152d15.jpg",
+          "full": "",
+          "caption": "排隊的涼亭"
+        },
+	{
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/e881307c-38b8-4dde-bb57-83ff080cf9c1_d49f6fa1-1227-40ae-bac8-7443c3ac310f.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/5da7c493-0998-45fc-9844-de4549ae839b_aabc40c4-349d-41ef-bfbc-7c0a8959d080",
+          "full": "",
+          "caption": ""
+        },
+        { 
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/165be732-621e-4475-9458-7505e0926812_abb61374-cd4b-41a9-8a0b-2bc9873b701f",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/d0a0d3a2-db6b-4f2d-963e-0161b2d6f479_999ab2dc-0685-43bc-abfe-09dfef572a9f",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Marline Lake 湖中風光",
+      "lat": 52.699917,
+      "lng": -117.599734,
+      "description": "湖兩邊的山實在是雄偉",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/874b85e6-cb01-473f-84d3-6d66b6b5b7c2_adaba28d-be31-49bc-a7c0-a894c6f94f44",
+          "full": "",
+          "caption": ""
+        },
+	{
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/240bed9c-3fb1-4019-9099-54bcbb2a4d99_904934d7-ca87-4147-9729-183d7c825d62",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/1dce2f25-1f40-4d43-aefd-dfdcd0f292b0_1c350297-a674-4d66-9aab-8d22c2ee5e9b",
+          "full": "",
+          "caption": ""
+        },
+        {           
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/40179a82-f467-43e5-9446-84c8189cf2fa_d2b2561f-9a2a-4d28-bca8-0e8933352ac9",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/af42355d-761e-4736-bfba-6497ce3a4799_debaad19-395d-4fba-87bf-b41ef3851c62",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "右側山光",
+      "lat": 52.665161,
+      "lng": -117.539198,
+      "description": "。",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/8921b90d-cfd9-408b-99a4-8d2325039cff_52eec9ec-4ac4-4cfb-a003-5cb47227f7a7",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/59a65273-a237-4ef8-b4a1-c98bf88b5c96_ad0f5fdc-568a-4a1d-b3e5-5f347b6f028d",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/f2218faf-3d31-43ca-9077-0afb746cee78_48e444e6-ae95-4800-bbf7-ce096b86af95",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "準備轉入碼頭",
+      "lat": 52.642162,
+      "lng": -117.492662,
+      "description": "",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/777b361e-341d-40d5-af01-94b517366f9d_fa2aefa9-0fd5-40b1-a4b2-652c9888fbde",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/0b6feb43-4f31-4ba0-94f3-fa8104ffabe0_974082f5-42d3-479f-af91-7e86207074d5",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/9ce1b30c-3a6b-4142-9b83-18f1db976a2e_c8663f6e-bd04-4920-a294-fc085d1a84ad",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "抵達湖中小島",
+      "lat": 52.643994,
+      "lng": -117.491797,
+      "description": "",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a8d92ef8-2118-49b9-b508-cccf16f18087_831a51ea-2467-4c55-b84f-90bdcc7628bf",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/c743f114-43ec-4b50-87f6-ec8b8b4e7911_523a02a3-0543-4fcf-b67b-cb2fe940654b",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/ccb1d4fb-3b67-45f2-838c-8b2d0aeba722_4fece1e9-3beb-495d-9e15-15aad6a771fe",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a7de09df-18ee-47e9-9aed-d1fbf40b838d_93055592-f096-439a-8b13-ce57dc86b7d5",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "岸邊風光",
+      "lat": 52.643965,
+      "lng": -117.492579,
+      "description": "",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/c239cc80-084d-4b06-ad45-b2c03fee8ab6_acfefb91-68c9-44a1-bdc9-c485cfc8568e",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/7c9ed551-4d5d-423e-bfa2-ebbb257d281f_488d28c0-8130-47fc-b2a9-0b0bb9be0c52",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/4d85de16-1bfa-4d0a-a86e-d2dd2659ef28_adf6de1f-924c-4b42-bbaf-5e1e6933a31f",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/14b1930c-166a-4efb-bdbb-2e4e94fbdb5d_aeb9c29d-069e-470b-a466-ac7f630507a3",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/02b93ae7-e6b4-4c38-a7c6-17b0ec2fc73c_bf0c23b3-d5ac-4dd0-9f73-2a617db0687f",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "山坡上制高點望海灣",
+      "lat": 52.643602,
+      "lng": -117.493446,
+      "description": "沿著小徑可以走到湖邊的一個小制高點，可以遠眺整個海灣。",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/769d705b-ee23-4a94-9be6-7d86662c2834_945333a1-d145-4e93-90d7-2e0a5b43e933",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/1354155d-9be2-45ce-85f9-23c035536975_f155ab63-6c79-4f97-b667-95230e572358",
+          "full": "",
+          "caption": ""
+        },
+	{
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6f3473fc-e802-4e85-80c7-09040ae21886_ce8ca385-5317-453a-8d7b-80b8ac773e93",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/c30ebf3c-3899-487b-bc7c-40250dc2ae49_427a1d57-cb73-4e7e-b676-532e2b84f48d",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/e083cfeb-4f0e-49ef-9bdc-4fa7d14d72d1_2450e35f-a544-4fd7-9998-3548239d37ad",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "逛完湖中小島（Spirit Island）準備回程啦",
+      "lat": 52.644049,
+      "lng": -117.491947,
+      "description": "",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/0debc8c5-f822-48be-a962-6dc0fcd3fc89_aa852c92-a10a-4c87-b78e-6d1561233411",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/950efb4a-5e55-4cc7-a8f5-d80e22588ff4_2661cc5f-5869-4bc9-a5d7-3edf61c33ca3.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/cab55b75-20d6-4e2d-90d9-0b13a701594f_1c0388ec-3f9e-4dc8-b438-053c9cb9f170.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/e53df845-3b92-4e80-86d4-3c9060ab8575_7c19826d-a507-46e3-8e51-f1a640e5f6d5",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/48c4c25b-54fc-454d-9a14-55dbf5cf3b6d_65fb264b-191f-470f-8f1b-8c46ea4b8bde",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/4349cc35-2ac1-4d4f-b6d5-4c79b7b97774_5ae85b08-fc81-4d7d-954f-ebaccd23d23b.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "回程",
+      "lat": 52.642607,
+      "lng": -117.49773,
+      "description": "",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/e677f582-d385-499a-8a88-11fc0b5e149f_6a1ba01e-28d2-4747-8311-7a34c7fcacd3",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/c301e0c4-151e-43e5-bc43-e181dad69938_281e8a77-9dfc-4706-88de-b2c40cb67d1e",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/40b76aa4-56a8-4dfb-bd83-a20dbbf21338_7303927f-88b3-463d-bedd-020cb0cba5d7",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/cde96bc3-4b95-4605-bc24-074a74f58690_2b3ff7f6-df5c-4ccd-98b5-f1e451d7f76c",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/73768520-35f2-49e1-805d-403565170c8e_1948d3cc-e9d2-48b9-a916-a1b74d11a0ce",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "回程右側風光",
+      "lat": 52.649703,
+      "lng": -117.508765,
+      "description": "",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/2d21a4de-dad7-403f-84dc-d522df5e74b7_ae679fc8-c40b-4934-aa66-54fa18806d67",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/0e1aaff1-b003-4796-a451-11fd57accb15_5acb33f0-7c8c-478c-9ba2-ffe156b4faf3",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/597e577d-778d-466c-b1c0-8ea8c4b0d7a4_c0f8f692-4632-4173-ba9d-06cedce836f5",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/402884df-6c06-44ef-914b-cf51b3ab3ce9_20fc78cc-937a-4967-b516-aed500edb69d",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/f20b36b8-76bf-41e9-8510-1a92109cf926_96af69b0-11d1-4a8e-95ff-776dd497d779",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/42fa0110-d27b-4bf1-b1a2-ab377740d560_43bba6b3-3b3d-4743-9d95-8d4fdae09ff7",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/e8fe6f3d-e5a3-412a-ae23-656d14ed368a_e643ec61-c652-46eb-bf82-66ae744310be",
+          "full": "",
+          "caption": ""
+        },
+        {           "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/3045fb19-81a3-413c-a5c8-cdeddf5ee759_0b465826-d8d3-4943-b455-ff213354700a",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/686ce6fb-20bf-4b08-94ca-f1ef17ec76c8_148895e0-7e76-4022-be50-937d12140740",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/275841cb-3ce0-4ba4-a2d1-315739c9d8d7_a7292d59-54ff-4496-b4c1-471d437e5871",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "回程左岸風光",
+      "lat": 52.668632,
+      "lng": -117.544328,
+      "description": "",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/bc04737f-57da-41e1-9f93-f69867812b1b_61c35e2b-dc9c-4bcf-b121-322fbd946191",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/d4fde81c-85a3-4ed1-a564-81ccb1c4ad3c_43cf8480-f1a2-4a98-8410-99c40b7ebb97",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/87334e04-c63e-428c-b0e6-2916782993da_f0db0d86-3eba-4e67-bbf2-4135e2391c81",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/60a09299-64e9-4ee9-8f76-28599b23aeb7_58e1edbb-cf3a-4d0a-a2a6-44dc1a3f05cb",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/364aeee3-1c7d-4a2c-bbb7-aaa0a207bf12_03af245d-756b-435c-8578-1af4c388b001",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/87d9260c-954f-46c8-ab52-86e575066225_59c50b3e-a752-41c0-95e6-7fb52e621b29",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "返回湖邊碼頭",
+      "lat": 52.728929,
+      "lng": -117.639751,
+      "description": "",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/090f372b-f68d-49f0-be0a-63b4dbb857ec_19ef2627-1639-4294-9e3d-e75f0fd0b2cf",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "湖邊小徑散步",
+      "lat": 52.728328,
+      "lng": -117.636834,
+      "description": "遊完湖後，在湖邊小徑吃午餐",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6468d8df-0043-47d7-bcd8-e6b094b5038d_e83878a3-048f-482b-8b31-ea31347022d7",
+          "full": "",
+          "caption": ""
+        },
+	{
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/5604bcbe-9bf0-4182-8e52-f10fca203bcc_f56a1510-060c-4540-8365-7cb30ef78f6a",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/b8b7a27b-6451-4005-8e98-c9bb93c4947e_9af6c285-5fd9-4bd7-a202-bd46ea106868",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/11741d82-8f2a-467f-af1c-72a7d07737a9_7560ffab-9455-4022-b911-b324ff1706e5",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/2ffee232-2409-44a2-b89c-226bbde0a375_bf37ae4a-5184-4a60-92fa-69d3a178d5ee",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "路邊焚燒過的樹林",
+      "lat": 52.919589,
+      "lng": -118.025858,
+      "description": "",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/50f4c90d-425b-4bff-bc66-11cbffb9753d_53c8568d-23c3-461f-af3c-53a7c273506b.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/09cc6772-d726-4961-9920-9723b2ac1103_11021f03-c4c5-4b0d-a0a5-f8e73de776ca.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/8005823e-ee20-4cad-b08b-2ce7a5af7142_93bd485a-9344-4d9e-968a-99dbad8f8a1d.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/d6e189c0-2881-48ab-9632-19b16a85eb30_3747bce9-7762-4529-9067-b2ab0ade1a61.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "遇到火車，等很久",
+      "lat": 52.871952,
+      "lng": -118.080807,
+      "description": "最後只好回頭走另外一條路",
+      "day": 4,
+      "photos": [
+      ]
+    },
+    {
+      "id": 67,
+      "name": "繞路到 Jasper 鐵橋下方進市區",
+      "lat": 52.895112,
+      "lng": -118.071377,
+      "description": "",
+      "day": 4,
+      "photos": [
+      ]
+    },
+    {
+      "id": 68,
+      "name": "在 Jasper 路邊停車",
+      "lat": 52.875045,
+      "lng": -118.084598,
+      "description": "",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/1461fb64-3e0f-4aed-9382-bf62572a15e7_68529ba1-1b6d-4b97-9e8e-7f3cea4fd018",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/7980daac-ae79-4ef6-a96e-abfed9cb56ab_9cf0ae8f-2816-459c-a342-8f4cbc541c83",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Jasper 消防局",
+      "lat": 52.875692,
+      "lng": -118.082855,
+      "description": "",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/b55c8734-5708-4728-971c-39d67945fd8a_2c38364c-10d4-4f29-b7b3-0a92c8f9dc6a",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a925132a-7ab9-4945-8528-b4f625416f8d_9d94487b-c9f0-4bf2-bde6-540b127382a4",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/5af0f3aa-c287-4cc0-a85d-85c36f6e6928_5e6621c4-19f5-47b3-b11a-2b99e9268eaf",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Jasper 遊客中心",
+      "lat": 52.877213,
+      "lng": -118.079947,
+      "description": "",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6824a8d8-25b7-4698-95c1-80052fdc0f22_81e6e524-1ca8-4d87-be81-c681dc22c2d8",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/8680aff3-8178-4575-84fb-1b23f27a0f7a_c26efdd0-8d26-4d9d-8c38-7e1391af440f",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/bbe85171-b02d-4587-9a19-e6fb2cba162c_62ace3cf-df17-4f82-b4aa-fd54c415b0c7",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6f45f363-6aa7-4889-8b1b-2fb49354fa72_2a5fad81-007a-46cd-903c-bd8d7acbd8bd",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/bf9647da-8165-42d8-8bad-375ccec96708_b2500eeb-6820-4b48-8af0-49097f025efa",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/22e3e9c4-4371-462f-b727-0315a8413978_a65d971b-6764-443b-be00-f5a6f14edabc",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/70fbe718-f320-4035-ad22-dabc60b2a188_b6898838-d15f-4f4b-9303-4910d33ce5f5",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/97bcb0ef-a40d-4ae5-9e21-88d8d4333b95_4e7114cf-ee71-42ed-9f1c-4d8af2bfe7cb",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/72acff26-4e20-42b4-9a3b-93a9ec77ac56_a9e88ed6-9b69-4e52-84ed-facd043f3cb0",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/905038c6-d41c-40a9-b1be-874d7b3304d5_d9146aeb-e914-4bea-93b7-01435a9e6902",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/8e61d2d6-af0e-49e1-8195-2f638558b11f_f2f406d6-77a1-4393-897b-1db387ede612",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/3a87870b-be13-4fe0-83d8-4e4ced55c33c_58efbbc9-2a11-4568-a04b-0b69064327f8",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/e3783bba-863a-4e3d-9dfd-e2b37568e4dd_b7daad9c-fb37-485a-9d5d-9df6cd668206",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a97b0d6b-2bb7-4da3-8831-e55040524ce7_63cb9fdd-5649-44ad-9994-a47b726a00b0",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/3dc05e5b-edc4-4574-bf7a-ef0b1329b3d0_4fbd5f22-fed4-4e02-ac7d-fedc61291c42",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Hinton 高速高路左彎進民宿點",
+      "lat": 53.420285,
+      "lng": -117.526507,
+      "description": "第一次見到高速公路可以左彎的",
+      "day": 4,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/3d74810d-a715-4dd8-b764-b7606dfed2a9_97b9b640-fa1f-4db3-a9a8-3a644ae356e0",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Hintn 隨拍",
+      "lat": 53.404487,
+      "lng": -117.559026,
+      "description": "",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/f51a671b-df0a-41c2-a268-f9d9a3258f83_38e0d6e3-187e-42c7-b64a-a0593b51fd1d.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Hintn 隨拍",
+      "lat": 53.398093,
+      "lng": -117.596511,
+      "description": "",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/495df420-a28e-4c09-99c5-7c2525a44a1b_34c20877-3041-446b-93e0-210eb85b45c8.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Hintn 隨拍",
+      "lat": 53.392462,
+      "lng": -117.608762,
+      "description": "",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/62ca5653-ee14-489d-ba85-f7547fbb0cf0_062c68dd-a3b3-4444-8ad0-408d3e71a2ee.jpg",
+          "full": "",
+          "caption": ""
+        },
+	{
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/ebdf1d49-cfc3-4e2a-b6ea-5ddf1baa0758_eb0b3c4f-9c96-4827-99d5-9cc91e8078ae.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/364c02c6-18c3-456b-a5f4-5fc891f58a24_b8c20add-0b83-4610-8e70-6227812ed656.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Yellowhead 隨拍",
+      "lat": 53.330663,
+      "lng": -117.677995,
+      "description": "",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/cb188fcd-6b67-4380-8b52-f8c5aaf1dedc_ee632de3-8521-4467-a491-75293bf254fa.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/136b58d5-9a9a-4cf7-8217-760ad70a8438_049e4f18-633e-4478-a690-aaa793a400f8.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Yellowhead County 隨拍",
+      "lat": 53.236496,
+      "lng": -117.821667,
+      "description": "",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/0250994d-7d58-431f-a436-d881b36ff9a5_e4d461d1-9aa5-4987-87ba-3a59d744fbed.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/72073842-8af3-4160-a929-7dc4456f7788_4f9c47c5-424d-4cbb-a38f-068b5a78650b.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Municipality of Jasper 隨拍",
+      "lat": 53.037556,
+      "lng": -118.094157,
+      "description": "",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/361f3890-86ee-4515-8731-86975b37714e_6dbad294-83e7-4ed9-ba07-86e66abc80c2.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Municipality of Jasper 隨拍",
+      "lat": 52.765716,
+      "lng": -117.974151,
+      "description": "",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/1940eb45-9ac0-4534-a8b6-f5f6dd009011_ff8e5b7e-2484-440a-bb78-c20fecca4a73.jpg",
+          "full": "",
+          "caption": ""
+        },
+	{
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/cd5ca104-60c9-414e-a0d5-79f38f8e8c54_bc7406c8-b879-4b37-a4d1-c8245559bf2f.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Improvement District 隨拍",
+      "lat": 52.714662,
+      "lng": -117.872275,
+      "description": "",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/e6b8d6d3-82db-433d-b1c9-a50ae008dcde_687bdc66-f18a-4ed1-b81a-9f87a7f62e94.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Jasper National Park 隨拍",
+      "lat": 52.684242,
+      "lng": -117.866129,
+      "description": "",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/5977239c-c0dd-4f2f-bdae-e88f5b6aa2fe_0db3d7fc-5719-4d6e-ae25-ae0225c5d444.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
     }
   ],
   "routes": [
@@ -798,7 +2242,73 @@
         {"lat": 52.915357, "lng": -118.098504, "routez": 0},
         {"lat": 52.914153, "lng": -118.095255, "routez": 0},
         {"lat": 52.915314, "lng": -118.089696, "routez": 0},
-        {"lat": 52.916004, "lng": -118.089470, "routez": 0}
+        {"lat": 52.916004, "lng": -118.089470, "routez": 0},
+        {"lat": 52.916250, "lng": -118.089202, "routez": 0},
+        {"lat": 52.921930, "lng": -118.095031, "routez": 0},
+        {"lat": 52.924419, "lng": -118.096979, "routez": 0},
+        {"lat": 52.924881, "lng": -118.097863, "routez": 0},
+        {"lat": 53.425253, "lng": -117.543049, "routez": 1},
+        {"lat": 53.428312, "lng": -117.530316, "routez": 1}
+      ]
+    },
+    {
+      "name": "第四日：Maligne Lake",
+      "color": "#ffff00",
+      "day": 4,
+      "points": [
+        {"lat": 53.428259, "lng": -117.530280, "routez": 1},
+        {"lat": 53.423284, "lng": -117.542898, "routez": 1},
+        {"lat": 52.873364, "lng": -117.542898, "routez": 1},
+        {"lat": 53.221984, "lng": -117.837048, "routez": 1},
+        {"lat": 53.166821, "lng": -117.973540, "routez": 1},
+        {"lat": 53.084393, "lng": -118.028924, "routez": 1},
+        {"lat": 52.873364, "lng": -117.805060, "routez": 1},
+        {"lat": 52.871834, "lng": -117.804854, "routez": 0},
+        {"lat": 52.871049, "lng": -117.804074, "routez": 0},
+        {"lat": 52.851294, "lng": -117.738197, "routez": 1},
+        {"lat": 52.837067, "lng": -117.718350, "routez": 1},
+        {"lat": 52.831713, "lng": -117.713202, "routez": 1},
+        {"lat": 52.792537, "lng": -117.689562, "routez": 1},
+        {"lat": 52.772853, "lng": -117.691546, "routez": 1},
+        {"lat": 52.729458, "lng": -117.637056, "routez": 1},
+        {"lat": 52.729175, "lng": -117.639473, "routez": 0},
+        {"lat": 52.728967, "lng": -117.640136, "routez": 0},
+        {"lat": 52.699917, "lng": -117.599734, "routez": 0},
+        {"lat": 52.665161, "lng": -117.539198, "routez": 0},
+        {"lat": 52.642162, "lng": -117.492662, "routez": 0},
+        {"lat": 52.643994, "lng": -117.491797, "routez": 0},
+        {"lat": 52.643965, "lng": -117.492579, "routez": 0},
+        {"lat": 52.643602, "lng": -117.493446, "routez": 0},
+        {"lat": 52.644049, "lng": -117.491947, "routez": 0},
+        {"lat": 52.642607, "lng": -117.497730, "routez": 0},
+        {"lat": 52.649703, "lng": -117.508765, "routez": 0},
+        {"lat": 52.668632, "lng": -117.544328, "routez": 0},
+        {"lat": 52.728929, "lng": -117.639751, "routez": 0},
+        {"lat": 52.728328, "lng": -117.636834, "routez": 0},
+        {"lat": 52.919589, "lng": -118.025858, "routez": 1},
+        {"lat": 52.871952, "lng": -118.080807, "routez": 1},
+        {"lat": 52.895112, "lng": -118.071377, "routez": 1},
+        {"lat": 52.875045, "lng": -118.084598, "routez": 1},
+        {"lat": 52.875692, "lng": -118.082855, "routez": 0},
+        {"lat": 52.877213, "lng": -118.079947, "routez": 0},
+        {"lat": 53.420285, "lng": -117.526507, "routez": 1}
+      ]
+    },
+    {
+      "name": "第五日：Icefield",
+      "color": "#8470FF",
+      "day": 5,
+      "points": [
+        {"lat": 53.428269, "lng": -117.530299, "routez": 1},
+        {"lat": 53.404487, "lng": -117.559026, "routez": 1},
+        {"lat": 53.398093, "lng": -117.596511, "routez": 1},
+        {"lat": 53.392462, "lng": -117.608762, "routez": 1},
+        {"lat": 53.330663, "lng": -117.677995, "routez": 1},
+        {"lat": 53.236496, "lng": -117.821667, "routez": 1},
+        {"lat": 53.037556, "lng": -118.094157, "routez": 1},
+        {"lat": 52.765716, "lng": -117.974151, "routez": 1},
+        {"lat": 52.714662, "lng": -117.872275, "routez": 1}
+        {"lat": 52.684242, "lng": -117.866129, "routez": 1}
       ]
     }
   ]
