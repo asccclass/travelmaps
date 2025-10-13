@@ -2187,6 +2187,291 @@
           "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/5977239c-c0dd-4f2f-bdae-e88f5b6aa2fe_0db3d7fc-5719-4d6e-ae25-ae0225c5d444.jpg",
           "full": "",
           "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/44e7e7b3-d636-44be-a44e-3e76703ec0f5_123d44b3-6171-4175-a17a-289138b72870.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Jasper National Park 隨拍",
+      "lat": 52.587654,
+      "lng": -117.770347,
+      "description": "",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/2211e229-e805-4694-9721-b920fafaf391_35f7334d-962f-461c-9c98-92bdc14dfd00.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/8d2876ad-b704-4f54-b408-332aaa29a13c_7e482873-5a53-4459-88a6-4e09dd993a58.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Jasper National Park 隨拍",
+      "lat": 52.487327,
+      "lng": -117.517919,
+      "description": "",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/7ff32bbc-7efa-41e7-b0a4-2f5a8d6d1ec4_44a6b52b-2ee8-490a-8599-61605a3af01b.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/83c5f16a-25a4-4d04-bec8-c41ab6d0df30_1fcb2ccc-79a7-49ab-af13-6a5bd42344ba.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Jasper National Park 隨拍",
+      "lat": 52.481934,
+      "lng": -117.510501,
+      "description": "",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/2828eb01-baba-4ac5-9e20-de1933dff4cf_3667b613-2f49-4c9e-b45d-0260bb4456e0.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/33feab1e-b0f4-4fd4-9a79-d53c05c4edda_0435873b-cc4f-4499-b351-9bfac10b521f.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Jasper National Park 入口",
+      "lat": 52.451250,
+      "lng": -117.444349,
+      "description": "需要檢查 Pass",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/1607f146-e3fb-4f57-a01f-e5f1a72b27ad_79b4bce9-0e9a-4c8a-9363-3f56e4c12d74.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/2f8b80e1-8896-4e47-9f5a-15c059824d6d_432f0c52-12f7-4888-b2b1-ade979537236.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Jasper National Park 路上的冰原",
+      "lat": 52.232611,
+      "lng": -117.250023,
+      "description": "",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/1df578be-cef8-4f36-8a1b-4a65288258d8_4bd11ef5-31ed-4b80-b924-1d1524831b6d.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/56b6ceb6-dc51-41ad-97a3-67c6994d2d38_f850bd5e-21bc-4162-b894-6ef59165d826.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Columbia Icefield 冰原停車場",
+      "lat": 52.220301,
+      "lng": -117.227209,
+      "description": "要上冰原，需要先轉搭公車，所以車子要停在停車場，然後走上去轉運站等車。",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6627e21d-f911-422f-8fd0-faf4a4bdafd1_6d81d443-1ec1-4382-b441-1a7485ce7918",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Columbia Icefield 傳運站",
+      "lat": 52.218154,
+      "lng": -117.224496,
+      "description": "由於冰原無法直接開車上山，所以必須要在轉運站排隊上車。排隊分兩邊，一邊是上冰川（需要依據預約的時間排隊）；另一邊就是 skybridge，可隨到隨排。當時上廁所把手機遺漏在廁所，上車前臨時想到，趕緊跑進去找，還好裡面的人還沒脫褲子，便開門讓我拿，是驚險的一件事。",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/0c8aa965-4330-4dfa-9ba6-0c92c61bd6a1_60f4c243-041a-4976-bca5-93afe7d7039c.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Columbia Icefield 冰原",
+      "lat": 52.196220,
+      "lng": -117.244065,
+      "description": "搭冰車到冰川行走，超級難得的體驗，上面風超大好冷。",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/0a54f517-4acc-404e-9946-75116c0e6fd4_5f655ec2-b9b5-4476-b362-a491a5e72d44",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/b1c49161-777b-4e73-860f-cad5eaa227e8_b47854c3-2009-4be9-972b-0a09757dc910",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a599de77-882b-4e23-bf0c-de2bb974601b_0028b3f7-5e08-4fc8-937f-fce13f2f6f1d",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Columbia Skywalk",
+      "lat": 52.196220,
+      "lng": -117.244065,
+      "description": "透明的半圓弧橋面。",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a599de77-882b-4e23-bf0c-de2bb974601b_0028b3f7-5e08-4fc8-937f-fce13f2f6f1d",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Jasper National Park Icefield Information Centre and Glacier Gallery",
+      "lat": 52.220055,
+      "lng": -117.2243060,
+      "description": "在二樓餐廳吃午餐。",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a599de77-882b-4e23-bf0c-de2bb974601b_0028b3f7-5e08-4fc8-937f-fce13f2f6f1d",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "name": "準備向民宿出發",
+      "lat": 52.220291,
+      "lng": -117.226916,
+      "description": "用完餐準備向民宿出發。",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a599de77-882b-4e23-bf0c-de2bb974601b_0028b3f7-5e08-4fc8-937f-fce13f2f6f1d",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "name": "The crossing 休息站",
+      "lat": 51.973449,
+      "lng": -116.746676,
+      "description": "",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/641a2659-bb89-47e1-8d7c-161f418398df_a33eb2ea-17fc-4663-88fe-6befb9d794f8.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a9cd02c6-7ab5-4c01-90fa-f84271af4685_bfda6e53-c35d-4338-9d2c-ccd62c313f2d.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/cbaf848a-120b-4eb1-b017-032ffa9ba19e_86204eed-ce14-40b8-a1b1-e3565089317c.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a2fb103d-213e-4d49-ad63-e41d1586e0e6_11c22f57-1cd4-4366-a838-e6f8745e2ca1.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/b73877c4-82db-4e58-99a9-0589812ce3fb_43db8eb2-bfb5-4659-9259-b7793b471ce8.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "name": "1號高速公路上",
+      "lat": 51.284569,
+      "lng": -115.983565,
+      "description": "",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/63c1d7ba-0728-4318-adae-4b06a9376dcd_f04ed3fe-1d5f-47db-8bc6-559f42b6cbef.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/ed2fe598-69c0-431b-84a9-d0d0e8b75d42_d8550357-5a53-432c-86d1-cdf4278502da.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "name": "抵達住宿小屋",
+      "lat": 51.127103,
+      "lng": -115.389583,
+      "description": "",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/7e8f8ea0-974e-40d5-a738-fbe6c30cce23_395eb982-791d-4e87-9bfd-18045d91cae6.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/5281c160-0c7d-4b31-bccf-092056a8cc7b_2848b11a-4c92-4dbc-9781-ddda444d4a9d.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/5766140c-3c6a-47bb-aa20-34ae6925dbcf_cca1a9ee-6b20-4015-8200-05ceb0ea1fc6.jpg",
+          "full": "",
+          "caption": ""
         }
       ]
     }
@@ -2295,7 +2580,7 @@
       ]
     },
     {
-      "name": "第五日：Icefield",
+      "name": "第五日：Columbia Icefield",
       "color": "#8470FF",
       "day": 5,
       "points": [
@@ -2308,7 +2593,21 @@
         {"lat": 53.037556, "lng": -118.094157, "routez": 1},
         {"lat": 52.765716, "lng": -117.974151, "routez": 1},
         {"lat": 52.714662, "lng": -117.872275, "routez": 1},
-        {"lat": 52.684242, "lng": -117.866129, "routez": 1}
+        {"lat": 52.684242, "lng": -117.866129, "routez": 1},
+        {"lat": 52.587654, "lng": -117.770347, "routez": 1},
+        {"lat": 52.487327, "lng": -117.517919, "routez": 1},
+        {"lat": 52.481934, "lng": -117.510501, "routez": 1},
+        {"lat": 52.451250, "lng": -117.444349, "routez": 1},
+        {"lat": 52.232611, "lng": -117.250023, "routez": 1},
+        {"lat": 52.220301, "lng": -117.227209, "routez": 1},
+        {"lat": 52.218154, "lng": -117.224496, "routez": 0},
+        {"lat": 52.196220, "lng": -117.244065, "routez": 0},
+        {"lat": 52.260883, "lng": -117.280162, "routez": 0},
+        {"lat": 52.220055, "lng": -117.224306, "routez": 0},
+        {"lat": 52.220291, "lng": -117.226916, "routez": 1},
+        {"lat": 51.973449, "lng": -116.746676, "routez": 1},
+        {"lat": 51.284569, "lng": -115.983565, "routez": 1},
+        {"lat": 51.127103, "lng": -115.389583, "routez": 1}
       ]
     }
   ]
