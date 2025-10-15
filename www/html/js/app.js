@@ -1,11 +1,11 @@
-const base = ''; // '/travel';
+const base = '/travel';
 // 初始化地圖
 // const map = L.map('map').setView([25.0340, 121.5300], 12);
 // 初始化地圖
 // 設定新的中心點經度 (Longitude)
 // 緯度 (lat): 0 (赤道附近，方便觀察全球)
 // 經度 (lng): 175 (將地圖中心設在太平洋中央，靠近180度線)
-const map = L.map('map').setView([0, 175], 3); 
+const map = L.map('map').setView([0, -175], 4); 
 
 // 定義地圖圖層
 const streetLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -150,6 +150,7 @@ async function renderRoutes() {
             }
             try {
                   const routePath = await getRoutePath(routePoints);
+		    console.log(routePath);
                   const polyline = L.polyline(
                      routePath,
                      {

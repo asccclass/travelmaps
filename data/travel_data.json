@@ -2313,8 +2313,8 @@
     {
       "id": 87,
       "name": "Columbia Icefield 傳運站",
-      "lat": 52.218154,
-      "lng": -117.224496,
+      "lat": 52.220449,
+      "lng": -117.223552,
       "description": "由於冰原無法直接開車上山，所以必須要在轉運站排隊上車。排隊分兩邊，一邊是上冰川（需要依據預約的時間排隊）；另一邊就是 skybridge，可隨到隨排。當時上廁所把手機遺漏在廁所，上車前臨時想到，趕緊跑進去找，還好裡面的人還沒脫褲子，便開門讓我拿，是驚險的一件事。",
       "day": 5,
       "photos": [
@@ -2322,15 +2322,50 @@
           "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/0c8aa965-4330-4dfa-9ba6-0c92c61bd6a1_60f4c243-041a-4976-bca5-93afe7d7039c.jpg",
           "full": "",
           "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6627e21d-f911-422f-8fd0-faf4a4bdafd1_6d81d443-1ec1-4382-b441-1a7485ce7918",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/98808fbd-34f0-42a2-a471-79039cb6024b_44780e4e-a5a8-47f3-a440-774cf7cee3d4",
+          "full": "",
+          "caption": "轉運站入口是一間禮品店，下車旅客需要穿過這個禮品點才能進到遊客中心"
         }
       ]
     },
     {
       "id": 88,
+      "name": "Columbia Icefield 傳運站1",
+      "lat": 52.210034,
+      "lng": -117.224720,
+      "description": "從遊客中心坐遊覽車只能到這邊，再向上就要改乘大輪子的冰原車。",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/17d0a01a-b253-4cea-84d2-ee02560314cc_24818c49-099a-4853-9d46-910f3d3a7cad",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/3131ec19-c2a2-40d9-9404-af9102e56a35_4789088d-6d16-43d3-a265-add10dd52bd9",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/07094b18-8989-491b-84a9-7bca9e737741_56d1bab5-8273-4276-9df9-b78d4dabae65",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 89,
       "name": "Columbia Icefield 冰原",
       "lat": 52.196220,
       "lng": -117.244065,
-      "description": "搭冰車到冰川行走，超級難得的體驗，上面風超大好冷。",
+      "description": "搭冰車到阿薩巴斯卡冰川行走，超級難得的體驗，上面風超大好冷。",
       "day": 5,
       "photos": [
         {
@@ -2351,30 +2386,55 @@
       ]
     },
     {
-      "id": 89,
+      "id": 90,
       "name": "Columbia Skywalk",
-      "lat": 52.196220,
-      "lng": -117.244065,
+      "lat": 52.261015,
+      "lng": -117.280233,
       "description": "透明的半圓弧橋面。",
       "day": 5,
       "photos": [
         {
-          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a599de77-882b-4e23-bf0c-de2bb974601b_0028b3f7-5e08-4fc8-937f-fce13f2f6f1d",
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/8213811b-a65f-4120-856c-712b216d46d6_cb4a30cb-e761-4b06-8eee-a7a3ed66c4f1",
           "full": "",
           "caption": ""
-        }
-      ]
-    },
-    {
-      "id": 90,
-      "name": "Jasper National Park Icefield Information Centre and Glacier Gallery",
-      "lat": 52.220055,
-      "lng": -117.2243060,
-      "description": "在二樓餐廳吃午餐。",
-      "day": 5,
-      "photos": [
+        },
         {
-          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a599de77-882b-4e23-bf0c-de2bb974601b_0028b3f7-5e08-4fc8-937f-fce13f2f6f1d",
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/28008c66-1ee6-40c8-8f36-10cef3f81c57_073e4a27-482a-495a-95f0-a0214cb56d00",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/48501f9a-c8cb-426c-a27c-5c1831974944_8a0d6b03-47bc-4298-a939-0c7e02277da4",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/762be394-8e14-4f33-b1e1-a3bc2437527c_4e94c0c2-bbbb-4bfe-a869-6ab2ae00ab88",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/2bcc32dc-5bec-4284-8a05-fe53e5cb6d7f_b00b53ce-5189-4f67-a0ff-65be6f8cbb4c",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/55f1944f-3f07-4f98-8fdf-e3589c75cb15_ca5d2421-43ae-4e84-aa71-95cc83b28266",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/27a11630-02b4-49f9-b7f0-39268f4015ca_5094432d-1f36-43e4-9bb9-ded18ae53bbd",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/2a83e666-fd20-4659-8b13-85d7c0a1c841_77cd4432-d7be-4b83-8cf7-56a34d9fe029",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/56b99b05-36b4-4ec6-bc89-9bc9128e085e_4b62441a-f7ad-48be-9c30-2b70f96ac752",
           "full": "",
           "caption": ""
         }
@@ -2382,14 +2442,49 @@
     },
     {
       "id": 91,
-      "name": "準備向民宿出發",
-      "lat": 52.220291,
-      "lng": -117.226916,
-      "description": "用完餐準備向民宿出發。",
+      "name": "Jasper National Park Icefield Information Centre and Glacier Gallery",
+      "lat": 52.220055,
+      "lng": -117.2243060,
+      "description": "在二樓餐廳吃午餐。",
       "day": 5,
       "photos": [
         {
-          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a599de77-882b-4e23-bf0c-de2bb974601b_0028b3f7-5e08-4fc8-937f-fce13f2f6f1d",
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/31c1f3fe-0f93-470f-b218-e1d1a250b4ed_142b5a76-caa4-41a4-aa10-fe8663aeec69",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/b190770f-c692-4e99-97bc-87342005815a_b493c88f-e9e7-4e43-96c0-6e8e8aaedc39",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a3c60b69-cfbd-4ec8-8a0e-eacabaffdd41_34908184-0b21-41cd-86fe-686caeb61538",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/ffdfd218-94cb-4ca0-86e8-e7461dc2962e_b885b9d0-45c5-47cf-a020-03b6bd2ec3c3",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6b5de970-8601-4c84-b60a-4d4a4477ce59_a912efc9-1bbb-4d3b-a0f6-6d790dfc8492",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/17894e2e-2b7b-4c27-9c32-e37c501ece6b_b6d316dc-d5da-4779-bb78-354149aac656",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/98a04fbc-9d3b-49c2-82c1-5981870f003c_a0133d7f-4f54-461a-8f0a-cbb1ac629de9",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/f8e206dc-f349-49e3-ab6b-405e044caa4f_1e7e745f-4df5-445f-81db-73c334d59ec4",
           "full": "",
           "caption": ""
         }
@@ -2397,10 +2492,30 @@
     },
     {
       "id": 92,
+      "name": "準備向民宿出發",
+      "lat": 52.220291,
+      "lng": -117.226916,
+      "description": "用完餐準備向民宿出發。",
+      "day": 5,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/87d5319c-bb21-4a97-9481-d270a29d6065_ad62d4e7-125c-4018-9bee-f6742c8707d3",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/32ac4189-a6d5-4082-90a4-1c20d2d69992_1332ffad-9ddc-4408-8cbe-4f504e7ad097",
+          "full": "",
+          "caption": ""
+	}
+      ]
+    },
+    {
+      "id": 93,
       "name": "The crossing 休息站",
       "lat": 51.973449,
       "lng": -116.746676,
-      "description": "",
+      "description": "在此地休息並上廁所",
       "day": 5,
       "photos": [
         {
@@ -2431,7 +2546,7 @@
       ]
     },
     {
-      "id": 93,
+      "id": 94,
       "name": "1號高速公路上",
       "lat": 51.284569,
       "lng": -115.983565,
@@ -2451,10 +2566,10 @@
       ]
     },
     {
-      "id": 94,
+      "id": 95,
       "name": "抵達住宿小屋",
-      "lat": 51.127103,
-      "lng": -115.389583,
+      "lat": 51.127557,
+      "lng": -115.388924,
       "description": "",
       "day": 5,
       "photos": [
@@ -2470,6 +2585,473 @@
         },
         {
           "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/5766140c-3c6a-47bb-aa20-34ae6925dbcf_cca1a9ee-6b20-4015-8200-05ceb0ea1fc6.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/82d28c58-a814-4be2-b717-39d31ae5e035_d597dbd7-3532-4819-ac56-f842986d1eb4",
+          "full": "",
+          "caption": "這時候才知道加拿大的蓮蓬頭與水龍頭切換是這邊往下拉"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Banff Gondola 停車場",
+      "lat": 51.148271,
+      "lng": -115.556393,
+      "description": "",
+      "day": 6,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/ee92bd7a-7ad1-46ce-b774-3001c8033f31_01705993-29c8-4573-9612-11719525c416.jpg",
+          "full": "",
+          "caption": "太早到，所以停車場空蕩蕩的"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/ad008c53-b60d-4ec5-b4d0-986eba68bd5d_03cfe8bd-964d-4e46-b5c1-d79c430ea762.jpg",
+          "full": "",
+          "caption": "後面的房子就是坐纜車的地方"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/a5a2a3b3-9756-4e91-8db6-392bcc4579ac_18cafca5-6cb9-4bef-831b-e05a0606d7bd.jpg",
+          "full": "",
+          "caption": "聽說有步道也可以走上去"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/cb51657f-b624-43f2-a15f-d69414e35745_985f2f66-9a01-4b10-817a-889595e8c906.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6da28aed-ebd8-4531-af5f-5fce08d99c91_3558e6d2-2acf-4a6a-95aa-38ba25dd0506.jpg",
+          "full": "",
+          "caption": "纜車售票亭"
+        },
+        { 
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/d40bf65d-6b80-40f6-af86-bb0f07b1989e_30a63243-273a-4ca6-8136-e2f1f06983b5.jpg",
+          "full": "",
+          "caption": "上山的纜車"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/049c49e1-dc43-4b5a-bd2f-1cb65a3fc277_d8bee901-c957-45bc-bf2b-a964a60310c1.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/fe0b83ae-7705-456b-97fc-e3d17812fc2e_fed5e1e2-fa01-4c5f-9aba-43f9fcc91ee0",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Gondola 景觀台（Upper Terminal）",
+      "lat": 51.144583,
+      "lng": -115.575035,
+      "description": "",
+      "day": 6,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/3f071b1a-d401-41c6-affe-09bb765db6c9_4b4b73b9-936a-4a93-be6a-abd11a251774.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/8c79cc75-2f30-48f6-a69a-46c391b0bb64_bb9b6a83-4d3e-4148-b5ef-56a681cde4c7.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6b0254db-3949-4b8d-b924-79a243eae2d0_aa7d2a79-b84c-4457-8d7a-1c1817b4a400.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/644005e9-8fee-481b-b9d1-598b8353685f_fd781b0d-a57f-48bc-9c84-375d4e36863a.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/285210c2-1bf5-409c-959b-4085910148f7_bb674248-0df0-4948-b17c-3ff68a606ff9.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/91be624c-a255-4e87-9b89-89357ddabcf2_989bf7ee-2761-457f-aa0e-9a6cb831e9e5.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/855239eb-6c17-408b-a709-e31031db8583_4cce7a20-2af3-412b-88c4-c389ea5eb3ed.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "name": "景觀平台",
+      "lat": 51.145074,
+      "lng": -115.575378,
+      "description": "可以遠眺Banff",
+      "day": 6,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/2023a471-6c7b-44f5-bad5-568ae28aaf21_aa30caba-799f-42f7-9f9e-41131dfca039",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/0faca752-9e7d-483b-8a31-4517e3c86227_9be1c01b-01b2-40f3-b826-5968880c2122",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/f382bf36-87f8-4b53-815e-500fd90bc826_c4a51c6e-56de-4209-af70-be2ac743bc2d",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/74a9f4b7-23d6-41b9-9237-bfc71f0871ee_c9870f9c-4013-4d6d-b5fa-fa551fb4c9dc",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "name": "景觀平台",
+      "lat": 51.145428,
+      "lng": -115.575914,
+      "description": "遠眺 Minewanka Lake。",
+      "day": 6,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/cb22bd99-1749-46f2-ae80-70217bd2837d_0f9890c9-ccc1-4c7d-a637-ce59d431f60b",
+          "full": "",
+          "caption": "一個慈祥的外國老先生幫我們拍照"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/3b8820b2-1a6c-44fd-8998-b6002270b17a_f02fbf18-0707-4aec-8962-03600e3929a7",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/063e986d-0954-407b-a0e3-311faa17e3f3_3b25c01b-b43a-437c-97b5-069d967095cb",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/4df3e7d0-b1a8-4ada-8c35-90b2185ea006_df8116da-c4d9-4a59-a114-50be74a59008",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/ce1c82be-6c00-44e6-a58e-710de4b7d8be_73462833-7fd3-4a77-b1a8-860f0f899bfe",
+          "full": "",
+          "caption": "可以看高速公路"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "name": "分岔路口",
+      "lat": 51.146359,
+      "lng": -115.578111,
+      "description": "一邊可以往觀測台一邊往山下走。因為時間的關係，所以我們走到這個路口就沒有繼續走下去",
+      "day": 6,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/da5384ed-e2c8-4cf6-8e70-4c9735ab722b_71378e6c-19c4-48bf-a3b9-d0603e44068b",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/37d71b65-da7c-4537-99a3-c92f66a2f779_3c175f44-8f40-4a70-8534-4fc430056e5d",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/b94a4ac9-7624-4036-91a4-7a48d462edbb_ae023638-14b0-45f1-be35-8c838312cf9f",
+          "full": "",
+          "caption": "Banff 另一邊的山景"
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6bed88c5-4ccf-42f6-ac2b-41a9044d1532_3e01e2bc-ea73-4aba-94bb-3c0257f6d3fe",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/cbeb62c5-d1c5-48f5-9f2f-ecb921195454_5509089e-8e78-40a9-9263-621548b349b3",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/5183dabc-e49d-4481-af88-0f8f5be7a79e_e80888c3-390e-4247-a8a0-dd3c9246d8a2",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "name": "Minnewanka Lake",
+      "lat": 51.24778,
+      "lng": -115.500552,
+      "description": "",
+      "day": 6,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/12d729d2-0162-47c6-88be-53d30b44d4db_52008f47-ff06-477a-9841-06100e59c5cf.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/b1236bea-cb3d-4755-89ab-e726e6349cf6_d385d063-f26a-41ac-a97d-3865fb2c2abc.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/b826524e-2033-4723-9775-ab20b5ed0091_20cd7e18-ee88-4019-be0d-997bec0a82a1.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/0da7f402-3e8c-48f4-8099-d107ddf3ba91_1531cfbd-003d-4929-90b3-9cb919a22721.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/2d187f22-9d7e-4342-8cac-f7afde1cbe4c_f163120c-ae41-4039-8e32-395fa8c5ad08.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/e0918b3d-4490-4dd9-86b8-2caf6f482489_fe4e7cd1-97c4-4235-ae3b-15955bc7bcd2.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/4ddc00b8-c74f-44ca-ba24-a4312ff0fc25_6993e9ca-939a-4cdd-9712-e0df26278d75.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Two Jack lake",
+      "lat": 51.230589,
+      "lng": -115.497961,
+      "description": "只有林晰與芳梓去走環湖步道，其餘人都在車上睡覺",
+      "day": 6,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/4a6f2e39-1711-4a35-861c-6e0f8fe4f347_ee06d23d-223e-4e15-9487-3c12a209d711.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6d6db8d3-9cb2-4654-b0ac-42012343f223_fd436526-4931-4b42-97c5-51dedf1ff784.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+
+
+    {
+      "id": 103,
+      "name": "Banff 國家公園管理處",
+      "lat": 51.170701,
+      "lng": -115.57127,
+      "description": "裡面可以停車",
+      "day": 6,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/e5610ec2-c5d3-4ac2-a60a-b66554ab9b9b_e00ec2e7-e82b-4cdc-a68d-f18e0beba839.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/355f8357-1b4f-46f0-ac50-75ace0ab67ba_79517159-0be5-4121-9c5e-443d10fd1080.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/15d11648-23e4-4fb5-aad3-b601abe49fcb_5765a580-e50c-4cdc-a567-b764ea23c812.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/0998a41e-52fe-4a86-ae0e-f944faa21ea9_45dfff02-b754-4cb0-9624-8591b98b0e83.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/e95708cc-3114-4a1d-a050-2b5f906e9fe1_77a2246b-8163-4b1a-87de-2ac012e2c884.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/73c99459-6ca3-4099-8358-4cb7f6c8e250_c84a60b5-52f5-4c57-8c5f-86e4eb1aaacd.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6f90e4e8-c82a-4bfa-8121-ba7ea38d6d5a_856f288c-fb9e-4cbd-bd25-9b14ea3dbb32.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/13febec2-2cf1-46b4-b8e3-749340fa5959_cad31cdd-cee9-4f3a-be3d-5375034b8d85.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/c41f2379-fced-4245-95bb-1bb39d345f43_7ec46aa8-84eb-4a34-8156-b4d67c1f0e8c.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Banff 橋",
+      "lat": 51.173236,
+      "lng": -115.571156,
+      "description": "很古典的橋。",
+      "day": 6,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/643d97a4-209e-4536-810f-6ba56db33029_6828b6fc-8133-48ea-ab44-caa92997c8af.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/36631213-771c-44cb-99fa-e03fcbec6ce7_9c3b084d-85c7-41fb-9ef2-d37bca55bb46.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/6d4ce65b-32c0-4cda-ba69-c73a7dbadfe0_ce1d2d4e-8e3e-4e29-bbae-97dec1e9f622.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Banff 印度料理店",
+      "lat": 51.178065,
+      "lng": -115.570818,
+      "description": "平價、道地的印度料理店。對面的Pizza店更是好吃到驚艷",
+      "day": 6,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/0941bce5-4499-4839-b37e-ea20f2998674_6809afdd-2bc0-431e-92f4-fbbe431df86a",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/599be1be-a80a-4fe2-976e-3588bf9a1918_4dd8f478-c841-4e8e-981c-05e7ce81e7f4",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/599be1be-a80a-4fe2-976e-3588bf9a1918_4dd8f478-c841-4e8e-981c-05e7ce81e7f4",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/41c04f97-0316-46a2-8967-10f35a7f5cca_850d33d9-8a00-4ea2-9044-ea01ae6eb75a",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/964a8c15-b4da-4a63-be88-80f766d3cb70_ae5de587-c532-4d89-9a0e-37001ca21ea9",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Johnston Canyon 第二停車場",
+      "lat": 51.24344,
+      "lng": -115.83965,
+      "description": "第一停車場滿了，只能到第二停車場停車＆上廁所",
+      "day": 8,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/4ae6a6b9-537e-4bf1-a277-4b2b79c06fb8_5f236076-a4ec-40ea-8059-2090f8bf68c2.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/c76f144b-237b-4fbb-a557-74507b4a80a8_abd34b82-e939-4ed6-90d4-8610e77ebe48.jpg",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "name": "路邊小溪",
+      "lat": 51.245748,
+      "lng": -115.841538,
+      "description": "可以眺望下面的溪水",
+      "day": 8,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/9a45e97f-c013-4457-97da-4b5daf49f218_3e95a4ea-3a54-422a-abeb-4416f548ec37",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/bd506a68-dbb8-49c8-91f7-9b9c54302109_f1554dff-b808-48cf-9341-587301bb1b1c",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "name": "跨溪鐵橋",
+      "lat": 51.246329,
+      "lng": -115.840949,
+      "description": "",
+      "day": 8,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/f0ebf640-0f7a-44e4-949f-e59b53c561e7_86745737-7895-4c4f-b8bf-0fa3b6c5e7b6",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/decf4ccf-4ec9-4562-a187-c1a545add840_07bc6cb9-b178-4faf-9450-0e33d6dbda86",
+          "full": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "name": "路邊鐵欄杆休息處",
+      "lat": 51.24871,
+      "lng": -115.838448,
+      "description": "可以眺望下面的溪水",
+      "day": 8,
+      "photos": [
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/2cb21958-5940-4b70-aeba-297f145f49db_fde3fc4c-c155-4092-a09d-8d799e0d33c5.jpg",
+          "full": "",
+          "caption": ""
+        },
+        {
+          "thumbnail": "https://media.prod.polarsteps.com/user_images/steps/large_thumb/u_703848/abe2edb8-cbb3-42f2-9b8f-33914324f518_cec91538-5580-40e2-a71f-921d59a8e694.jpg",
           "full": "",
           "caption": ""
         }
@@ -2515,7 +3097,7 @@
       ]
     },
     {
-      "name": "第三日：Jasper 金字塔湖",
+      "name": "第三日：Pymarid Lake",
       "color": "#00ff00",
       "day": 3,
       "points": [
@@ -2600,14 +3182,53 @@
         {"lat": 52.451250, "lng": -117.444349, "routez": 1},
         {"lat": 52.232611, "lng": -117.250023, "routez": 1},
         {"lat": 52.220301, "lng": -117.227209, "routez": 1},
-        {"lat": 52.218154, "lng": -117.224496, "routez": 0},
+        {"lat": 52.220449, "lng": -117.223552, "routez": 0},
+        {"lat": 52.210034, "lng": -117.224720, "routez": 0},
         {"lat": 52.196220, "lng": -117.244065, "routez": 0},
+        {"lat": 52.220449, "lng": -117.223552, "routez": 0},
         {"lat": 52.260883, "lng": -117.280162, "routez": 0},
         {"lat": 52.220055, "lng": -117.224306, "routez": 0},
         {"lat": 52.220291, "lng": -117.226916, "routez": 1},
         {"lat": 51.973449, "lng": -116.746676, "routez": 1},
         {"lat": 51.284569, "lng": -115.983565, "routez": 1},
-        {"lat": 51.127103, "lng": -115.389583, "routez": 1}
+        {"lat": 51.127557, "lng": -115.388924, "routez": 1}
+      ]
+    },
+    {
+      "name": "第六日：Banff Gondola",
+      "color": "#FF021A",
+      "day": 6,
+      "points": [
+        {"lat": 51.127557, "lng": -115.388924, "routez": 1},
+        {"lat": 51.148271, "lng": -115.556393, "routez": 1},
+        {"lat": 51.144583, "lng": -115.575035, "routez": 0},
+        {"lat": 51.145074, "lng": -115.575378, "routez": 0},
+        {"lat": 51.145428, "lng": -115.575914, "routez": 0},
+        {"lat": 51.146359, "lng": -115.578111, "routez": 0},
+        {"lat": 51.247780, "lng": -115.500552, "routez": 1},
+        {"lat": 51.230589, "lng": -115.497961, "routez": 1},
+        {"lat": 51.170701, "lng": -115.571270, "routez": 1},
+        {"lat": 51.173236, "lng": -115.571156, "routez": 0}
+      ]
+    },
+    {
+      "name": "第七日：Lake Minnewanka",
+      "color": "#F2AC79",
+      "day": 7,
+      "points": [
+        {"lat": 51.127557, "lng": -115.388924, "routez": 1}
+      ]
+    },
+    {
+      "name": "第八日：Johnston Canyon",
+      "color": "#F279EF",
+      "day": 8,
+      "points": [
+        {"lat": 51.127557, "lng": -115.388924, "routez": 1},
+        {"lat": 51.24344, "lng": -115.83965, "routez": 1},
+        {"lat": 51.245748, "lng": -115.841538, "routez": 0},
+        {"lat": 51.246329, "lng": -115.840949, "routez": 0},
+        {"lat": 51.24871, "lng": -115.838448, "routez": 0}
       ]
     }
   ]
